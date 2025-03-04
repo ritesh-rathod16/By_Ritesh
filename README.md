@@ -38,3 +38,10 @@
 Basic Python Data Structures
 Object-Oriented Programming (OOP)
 Fundamental Programming Concepts
+# Courses Offered 
+![image](https://github.com/user-attachments/assets/b8175f87-8693-4da9-8e44-3b70a6486fa7)
+# What you'll learn
+- Understand what Python is and why Python is relevant to automation
+- Write short Python scripts to perform automated actions
+- Understand how to use the basic Python structures: strings, lists, and dictionaries
+- Create your own Python objects
