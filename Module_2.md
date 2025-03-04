@@ -1,4 +1,4 @@
-# Module 2 >> 
+# Module 2 >> Crash Course on Python <<
 
 # Explore Python syntax
 
