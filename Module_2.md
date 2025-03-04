@@ -53,43 +53,43 @@ Tim Peters, a Python programmer, wrote this now-famous “poem” of guiding pri
 
 ## The Zen of Python
 
-Beautiful is better than ugly.
+- Beautiful is better than ugly.
 
-Explicit is better than implicit.
+- Explicit is better than implicit.
 
-Simple is better than complex.
+- Simple is better than complex.
 
-Complex is better than complicated.
+- Complex is better than complicated.
 
-Flat is better than nested.
+- Flat is better than nested.
 
-Sparse is better than dense.
+- Sparse is better than dense.
 
-Readability counts.
+- Readability counts.
 
-Special cases aren't special enough to break the rules.
+- Special cases aren't special enough to break the rules.
 
-Although practicality beats purity.
+- Although practicality beats purity.
 
-Errors should never pass silently.
+- Errors should never pass silently.
 
-Unless explicitly silenced.
+- Unless explicitly silenced.
 
-In the face of ambiguity, refuse the temptation to guess.
+- In the face of ambiguity, refuse the temptation to guess.
 
-There should be one—and preferably only one—obvious way to do it.
+- There should be one—and preferably only one—obvious way to do it.
 
-Although that way may not be obvious at first unless you're Dutch.
+- Although that way may not be obvious at first unless you're Dutch.
 
-Now is better than never.
+- Now is better than never.
 
-Although never is often better than *right* now.
+- Although never is often better than *right* now.
 
-If the implementation is hard to explain, it's a bad idea.
+- If the implementation is hard to explain, it's a bad idea.
 
-If the implementation is easy to explain, it may be a good idea.
+- If the implementation is easy to explain, it may be a good idea.
 
-Namespaces are one honking great idea -- let's do more of those!
+- Namespaces are one honking great idea -- let's do more of those!
 
 Finally, it’s helpful to bookmark the [PEP 8 Style Guide for Python](https://peps.python.org/pep-0008/) so you can reference it as needed. This reading is limited in scope, and PEP 8 is a more exhaustive resource for style-related matters. PEP stands for Python Enhancement Proposals. These are a running catalog of ways to improve or standardize Python as a language. Because Python is open source, PEP offers a framework to guide developers and build consensus around ideas. It’s a useful and trusted resource.
 
