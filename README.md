@@ -45,3 +45,8 @@ Fundamental Programming Concepts
 - Write short Python scripts to perform automated actions
 - Understand how to use the basic Python structures: strings, lists, and dictionaries
 - Create your own Python objects
+# Skills you'll gain
+- Building a Solution
+- Interacting with Web Services
+- Serialization
+- Creating and Translating Media Files
