@@ -372,3 +372,314 @@ This follow-along reading is organized to match the content in the video that fo
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 ![Screenshot 2025-03-04 230448.png](<https://media-hosting.imagekit.io//30471b5a67054ec5/Screenshot%202025-03-04%20230448.png?Expires=1835717772&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=j821BHAdCfyGerKL1VCSHz20CPsd~rFlAPNIdZ2R7jp7wEILI-jZlFCag-~jE1usGg1ENlymMRVCKkioTsXxrm6VEipwscxb-pM0piDHUyvtxjnPK59MB6TDTuUMIhxzyjqnm6kn7xR3u6SH4K8f0d97I5CSEPPsPLn1216WrLaBxmo16ao29l3yer85yTSGxHcaZpGnOS8muEx3UYZ7MTfBN2Qf1wow7DdUV3g43zUiIv5qMahf3NLjgyIh1FHbIAzBCFHbyf0LargGOGaaZfNLa6m2kO6dUMfpNNn9F15EG2hRlWbMPpg0-5xpYDlRMhxE17Y34FLxvlPMepNPqw__>)
 ![Screenshot 2025-03-04 230523.png](<https://media-hosting.imagekit.io//e7a86d813bff4f97/Screenshot%202025-03-04%20230523.png?Expires=1835717748&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=t4envcHz~1K58cbmm~SIl1eL7UtefOqtUITyAoRvb~pDImcS9AZOSTIrxi8LLWAz1CNfqMJBjZCC3BoakwEhtFAAj5j5addIp2uIDHp4jhVKibqpG1NV1T8H~Ih0aBsqlq6-VNqoRQZGEcNR~pKeC-zVWEuuFomXH1eylomI0iAR2uoeRU8OrcxlOAUZojQTcU2yHQre5qDt1pPnu5FkUUyXpNZ177aghnLLpbhTYUDZViHSfiP~jIEiZSn6GsNOGpxXFDUNRsVG3ydjfq9KCY2kTw60p9u~fLTbLYbXHTykvJCLsnkOAq5YCTWRGkRXDsnc4qqloho5l600F43DqQ__>)
+# Review: The principles of code reuse
+
+This reading contains the code used in the instructional videos from [**The principles of code reuse**](https://www.coursera.org/learn/python-crash-course/lecture/nKcGB/the-principles-of-code-reuse)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![Screenshot 2025-03-05 005943.png](<https://media-hosting.imagekit.io//d3fb724ae5ac4c15/Screenshot%202025-03-05%20005943.png?Expires=1835724589&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=3QHowZCPShWTsXac9VlTNFnmWcCThFN2s8aWzG5W8JG-heGjzaTrWZbf~ndiPFgyjiRUEAIkLkDsXTbjJ11R0LkMW3jUcRHfuS3EbM645uYvZ9hdqYHUk3Z5UnNV9YbB13W75CMkJKwKf3~d5phKJBnNfixkzjgNtZh7gHK6~TvkmMJbO9oUTVlYkCtEH0Nnfs10h1ODY7hkAodEXMSO~tTFObbbl9WLqm4YcyXmOrDffWIJqazbBLMZq7~5Okr0FEldnqYQyDpC2KSu~tICIOtkS1bNwtKVnYZLRuGnH1rgSgspnp8Na8qx33j4AJXvXHcoA7C6WDkiH62wcpVClg__>)
+
+# Review: Code style
+
+This reading contains the code used in the instructional videos from [**Code style**](https://www.coursera.org/learn/python-crash-course/lecture/Et6bk/code-style)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video
+![Screenshot 2025-03-05 010919.png](<https://media-hosting.imagekit.io//deeab3b7c15c4f15/Screenshot%202025-03-05%20010919.png?Expires=1835725166&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=b1X4cH~xFOhSWg~BWgS5qZxALh3OrqxEQWwlm4IXrO3mGXMMAjdeCNYk4vu3Hwkfz5aRJZQunqCzHkB9UnsYB2G8Jd7e6HDwyFlteLPpSGFxAsvjO3tgMlAD-mrRH34iofbaeynbfjVCz98WICEoSW~H5kG7rjnZvbG~Gzr5M8NFNesgRlylSXvBFTk3opT9Wt4IJO9LfJuEAd9QaL~lNMBZwzRIWYGSAO2aWBJtGf7h1SjA1z71W4mt9m~FmWSvmxepq235Mdjkap760l1CBStsI4XPNZ8iZ0xQYZm9clk72gvCsrhy3Kn7Z~v2mZgi5cIm5rC8f6B5J~DMYnMAjw__>)
+# Study guide: Functions
+
+This study guide provides a quick-reference summary of what you learned in this lesson and serves as a guide for the upcoming practice quiz.
+
+In the Functions segment, you learned how to define and call functions, utilize a function’s parameters, and return data from a function. You also learned how to differentiate and convert between different data types utilizing variables. Plus, you learned a few best practices for writing reusable and readable code.
+
+# Terms
+
+- **return value** - the value or variable returned as the end result of a function
+- **parameter (argument)**  a value passed into a function for use within the function
+- **refactoring code** - a process to restructure code without changing functionality
+
+# Knowledge
+
+- The purpose of the **def()** keyword ****is to define a new function.
+- Best practices for writing code that is readable and reusable:
+    - **Create a reusable function** - Replace duplicate code with one reusable function to make the code easier to read and repurpose.
+    - **Refactor code** - Update code so that it is self-documenting and the intent of the code is clear.
+    - **Add comments** - Adding comments is part of creating self-documenting code. Using comments allows you to leave notes to yourself and/or other programmers to make the purpose of the code clear.
+
+# Coding skills
+
+**Skill Group 1**
+
+- Use a function that accepts multiple parameters
+- Return a result value
+![Screenshot 2025-03-05 012726.png](<https://media-hosting.imagekit.io//bbbb2494bf5a4cbd/Screenshot%202025-03-05%20012726.png?Expires=1835726251&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uMm4B26foY3jgrRweCO0MkA80lNNJrTP9JBlh6ZZ31OgdW1LAkNVWrmZw5N~R-A8dCCvGUP6VGfqWXJ2-ok7j7~-uo3rY9Rao9PlmBaYC4KcNMXX8AOq5LOVEjrP1JLw7KvWTVS98Kdg6wR2awddbdrojLjnSNDysCkoUeHrnT6SGn3xRNbAw9m6PTGXhVF94re73pQWnanKEnMdbJ1fH9MH6pYrD~6M7CXOQB9AOOUVFs8A7NF4kRo7Be9D-du1QI-GGl6-p36J9VmvrcBAdGD6AGSDTYWl0ed32bCL2dRnuuYAyE58sNHLSfcxvoB9dsfhjzu~MCpqa8ENq9phsQ__>)
+**Skill Group 2**
+
+- Use a function to return the result of a measurement conversion
+- Use arithmetic operators to perform a calculation
+- Combine text with a function call within a print() statement
+- Convert the return value from a float data type to a string for the print() function
+- Call the function and perform a calculation on the return value within a print() statement
+  ![Screenshot 2025-03-05 012834.png](<https://media-hosting.imagekit.io//0acfec810e284e4f/Screenshot%202025-03-05%20012834.png?Expires=1835726318&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ozRQ4h0SBPJujAy99RBzWz8BzLvBSCLy-gWjkdehicERyi7x4jfXucO3wKjvwaUie-S2BNfhUD1PdJQPqVCLAFeedXjyvQJnXlYtPIpSkbyAdt0HUqBCRZcHVttXQrXJZYZ0ieTjSL7z~20Uxy9rg8cWZ3avuNqGJlgyzlrMWzGXW5qDnfM6lIBxMxGs-GQpO4ze-GYZL-BWFtNWvPvrNQg-jyniyWgfbuzs9Gh9g8AP8G-Bep4EDdvAy9f03Kb4NmuyeHzzR9E7FUFOl2YsjH3gesHHZEifn1WBrH1CzoDegoIpyz6NKx3IQ04sobS85UVdqN14LDKdDSobiOX1LA__>)
+  
+  # Python practice information
+
+For additional Python practice, the following links will take you to several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+
+
+# Review: Comparing things
+
+This reading contains the code used in the instructional videos from [**Comparing things.**](https://www.coursera.org/learn/python-crash-course/lecture/7McMn/comparing-things)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![Screenshot 2025-03-05 015412.png](<https://media-hosting.imagekit.io//ac49b5ad88114429/Screenshot%202025-03-05%20015412.png?Expires=1835727862&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=BEUeUh61fyKwOegVd8RX~wNA3hvbrTmdSNNenVUu-9gatMS4Oz~9WOBvgxPXJlng3iOg27KIoIj97djFRl4sup~1VZoaqaw61hUr2n1Jkb-r-i5~WlGRlvxPtPvw3eVYBQO0ProUGzoF-6oFatVDE6u6jGCIvY0d06h0swyYfOB6AEUOwSVEofbGO7YYDSq-jAUNE7J4DPRu0~86Da7OJtVvJEavWN5rhW1pi~WU~8dWynK-c8T14Mtan0kSO3lV4EO2wNC5Cr0JKMsW8fQbYOWvl-oCEcCwOMUrWv229lMsY8s-01rlOVabmBAIEQ~Gmz80~5FdbegkuONwFkwEDA__>)
+
+# Comparison Operators with Equations
+
+The following examples demonstrate how to use comparison operators with the data types **int** (integers, whole numbers) and **float** (number with a decimal point or fractional value). Comparison operators return Boolean results. As you learned previously, Boolean is a data type that can hold only one of two values: **True** or **False**.
+
+The comparison operators include:
+
+- **==** (equality)
+- **!=** (not equal to)
+- **>** (greater than)
+- **<** (less than)
+- **>=** (greater than or equal to)
+- **<=**  (less than or equal to)
+
+# PART 1: Equality **==** and Not Equal To **!=** Operators
+
+In Python, you can use comparison operators to compare values. When a comparison is made, Python returns a Boolean result: **True** or **False**. Note that Boolean data types are not string data types (Boolean **True** is not equal to the string "True").
+
+- To check if two values are the same, use the **equality operator**: **==**
+- To check if two values are not the same, use the **not equal to operator**: **!=**
+
+The print() function can be used to display the results of the comparisons.
+
+**Examples:**
+![Screenshot 2025-03-05 020304.png](<https://media-hosting.imagekit.io//ead0c6a876614f95/Screenshot%202025-03-05%20020304.png?Expires=1835728388&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yD8IVCWCqp2F~GwefrsS5iKOGRETrzj~tQtAtL0nhGni-6y~P8IgZMMQgvBp2YxpENp5OS6EpwUIgcg9F3912Ddvxfurx0ru4bT5OVVEOkKWvnwhxNehQ-O~3zdAR7LUOXFZsFe7rPv1YVjmqhUWoO4C8lHHCwo5STHxb0qhP4UPisgfbg5QFjOnwSMko-CReo9rQxGfcTl0KIwKWwyaZAqpzbhy9atYhgPNoKC5hkdx5nYwevLlHB2SXLQ9WaaLyx-DBLvdXWlISkL4ZmTFKWY7ianJJHKsyjyw6r9dglQHFyIrCeraHuqy279gmFL4QNSOObKVZ3tUNDBR0h1mrQ__>)
+
+## The equality **==** operator versus the equals **=** operator
+
+It is important to note that the equality **==** comparison operator performs a different task than the equals **=** assignment operator. The equals **=** operator assigns the value on the right side of the equals **=** to the object (e.g., a variable) on the left side of the equals **=** operator.
+
+**Examples:**
+![Screenshot 2025-03-05 020805.png](<https://media-hosting.imagekit.io//49476c360e774ed3/Screenshot%202025-03-05%20020805.png?Expires=1835728689&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LvSDhGJcbvbLC1~Q6mhjL1PEyctGuhQ0lYMVFmxIesYS-K~5eEf7xCqUYlD~pgoOgpAKPkKx6XAruVHtEK47vj~jWT0BA8VTxYyFpaM1gT-8FbYd0Q5azG8NWVlFFco~xevOeiZ5Got6avSwKfeFY04E7QvtCGEvjZnAUH5uStCQVm7zVkFf8Lg4FcIGs1wwK5n8jjG8V2KPKqDfRvguZGCbingtlYXbW7x-BD8uRHk8PijEoVqnbYRTO0odoartF20g0Hkxwyfqm~pOlE13NjUJDMgwtruYx6D2OMBi5loWt5BxleU73ztEXcdoAK4~cUTacqvih-83TteQ5P4tUA__>)
+
+# PART 2: Greater Than **>** and Less Than **<** Operators
+
+The comparison operators greater than **>** and less than **<** also return a **True** or **False** Boolean result after comparing two values.
+
+- To check if one value is larger than another value, use the greater than operator: **>**
+- To check if one value is smaller than another value, use the less than operator: **<**
+
+**Examples:**
+![Screenshot 2025-03-05 020918.png](<https://media-hosting.imagekit.io//7dce2366b636432a/Screenshot%202025-03-05%20020918.png?Expires=1835728764&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=lokc2ijupXeQT6Xn~tjWhVtYjw5RoyyTZPFzZ45lKg-NBZ1qHSosA1fU7Fz92Nxf7ORSc-pFS7DuGlI-RlmLO~dS7ML~Sh6Gl5yOUgtuoMSIk3bmitEK5i92-2FriaJ7Lhsc69riyhsQpITM98zROsX54cmRv6Yc99vhtWXWw5-vZcqPhtnyG8bVa3vSa3daz54ABcqz-dl0b6kjPPf0faWbxVgTtPSZfMnzfx8BcCxfl9ZP8wDFU4cfzPGFSarM1K052WSYT-qO8bhTt~hhrgUhGii~EFSSDTwLOsqOw9p7SSspI00v1t1PkLR-kkFHgzeYn8jPCOvkRpWCrXPxcA__>)
+
+# PART 3: Greater Than or Equal to **>=** and Less Than or Equal to **<=** Operators
+
+Like the other comparison operators, the greater than or equal to **>=** and less than or equal to **<=** operators return a **True** or **False** Boolean result when a comparison is made.
+
+- To check if one value is larger than or equal to another value, use the greater than or equal to operator: **>=**
+- To check if one value is smaller than or equal to another value, use the less than or equal to operator: **<=**
+
+**Examples:**
+![Screenshot 2025-03-05 021026.png](<https://media-hosting.imagekit.io//9fa19a4224334ff1/Screenshot%202025-03-05%20021026.png?Expires=1835728830&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=fEEz6A8t0OC-NGkB3knVnJ63nLwrcBxo4OWIzw4vA3vxgSWfR2b~nWShjwbLWbuAZsWysds9GUMgOPRggmAGxI8d1cyiPNVbE-rC9om0-X~5vPA4ykcvJCtU1LmESvmKrTUu9TVQlahVVUmGGHYskXlmvQd8GgZ7UgUdatynBl6N6CmRSLOtMZ0mvMUI2CmTEZZDnuKQvrDlAESWmXE8zmSYEnnl1RgcI0huvEV--cq2eTfKUPfBrCQ4aiJ1zx~LKmfyG7pxb6XjWYDIuo7gk9yYfNtl~dX-knDWo751Spb76UiljuLYErVPzI6gQE4Ufo~7NH8yt~5bafUSOc2Jtg__>)
+
+# PART 4: Practice
+
+If you would like more practice using comparison operators, feel free to create your own comparisons using the VS Code or any other platform . 
+
+For additional Python practice, the following links will take you to several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+ 
+
+# Key takeaways
+
+Python comparison operators return Boolean results: **True** or **False**.
+![Screenshot 2025-03-05 021338.png](<https://media-hosting.imagekit.io//abb38aefdad7491e/Screenshot%202025-03-05%20021338.png?Expires=1835729023&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mXBmLOvzGm1fJQPwyymBpYkVjKUXfjcfdAzjQ5Tn-I8AonXtpZeMu10s~SLL7j337THmU1LI7dFzLYOQh5w29Q24~dLtvRvv9DK41vGqaD40l-cyt6UqS3vTRjYNeOc5Dm~xqwWtUDTv4ZRFPZNLmCub9id4OBze4ucJ8t7AmrI7mpdsm-xsPGZD7gg-RwlK3f8NdBbKgnzmqNdzZngUrgVwWO6Clq97XhI7rDcH4X1b~tXPa2y5RuJyQnz9LzO2IEzsfMiGtJGWyF4jiIAPJZK6~~wNdiQaWFu~ce2wNbhA9sqqbzqmpoPqTuCocGBIHQEpazVFrOWCLOZO5d6EeQ__>)
+
+# Resources for more information
+
+For more information about the concepts covered in these practice exercises, please visit:
+
+- [Order of Operations](https://www.mathsisfun.com/operation-order-pemdas.html) - A refresher on the mathematical Order of Operations.
+- [Python Comparison Operators with Syntax and Example](https://data-flair.training/blogs/python-comparison-operators/) - Provides examples of more complex comparisons.
+- [Raise numbers to a power: here’s how to exponentiate in Python](https://kodify.net/python/math/exponents/) - Explains multiple methods for calculating exponents in Python.
+# Comparison Operators with Strings
+
+In this reading, you will learn more about what comparison operators can and cannot do. If you use the **==** (equality) and **!=** (not equal to) ****operators with strings, you can check if two strings contain the same text or not. You can also alphabetize strings using **>** (greater than), **<** (less than)**, >=** (greater than or equal to)**, <=** (less than or equal to) comparison operators. As with numeric data types, comparison operators used with strings will return Boolean (**True**, **False**) results.
+
+# PART 1: Equality **==** and Not Equal to **!=** Operators with Strings
+
+In Python, you can use comparison operators to compare strings. The equality **==** and the not equal to **!=** operators are helpful when you need to search for a specific string in a body of text, a log file, a spreadsheet, a database, and more. You can also check user input strings to compare them to another string. Note that Boolean data types are not string data types (Boolean **True** is not equal to the string "True").
+
+**Examples:**
+![Screenshot 2025-03-05 021532.png](<https://media-hosting.imagekit.io//7eb6e34e9c4b4a13/Screenshot%202025-03-05%20021532.png?Expires=1835729136&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ETE0spRhjUdriq8F-kK6PP13D7on7Qy-YYH37B2liIB82kOawgcEoY7s40YRkvr4k2KGY~QcYb0U3YuU4Q40moLmGDDzoEUK7O90-QPqw40BAknAbiqFOSAlsnLfZYYgNwOJ-Ia5tOaUYaa~aOFXPuBQSAxAGqmwbGDDPuRY98NoqaULrWuNbtILy-ubh8~L8QQjsaM5NcTRBtFIdU7tSH2tx~AWvx3pNwMGtFFdx9s6EIs-W~VLJOe65btIr3FJ1WuJdn1oK3P-A6jVFcN461YaXtx72Dv7nIo61c2mDisU-2dllPCHfH-gishg6vZLYqfGCN22wdTmUMcJ5rilFA__>)
+
+# PART 2: The Greater Than **>** and Less Than **<** Operators
+
+The comparison operators greater than **>** and less than **<** can be used to alphabetize words in Python. The letters of the alphabet have numeric codes in Unicode (also known as ASCII values). The uppercase letters A to Z are represented by the Unicode values 65 to 90. The lowercase letters a to z are represented by the Unicode values 97 to 122.
+![Screenshot 2025-03-05 022102.png](<https://media-hosting.imagekit.io//1ff5fb26ae254329/Screenshot%202025-03-05%20022102.png?Expires=1835729465&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dgKTowcwJjl6TxFFicLb9D80VDIcNSna~3Q23nIeo6GmHRS94SSi7Lz~gzx2O4hb55CKSSwPvp6Y9c-AirgzbOYTuxCwiRHbvu6e2Q~v6eicec-KCe24s2pIuEgq71zdatxKZTQwzuO8lcIGLjYr883i0HDV8X7CxNGWdSFR9Fq9P0r2~GNDDoNog132kac5Ty8mKtGC0QKG25anGakOTnq4CRoas7AXo7AffgWoS2jESQ1xQBRjVL3FAHkLB2oG1Bj9LJfnQ0xsEVEOwT4i7D~E8OSuy3IQXXLzMBOAp~pQ641vLANVR3vtTPygrrWSsNl7KX4IpBsmACq48AnLZQ__>)
+- To check if the first letter(s) of a string have a larger Unicode value (meaning the letter is closer to 122 or lowercase z) than the first letter of another string, use the greater than operator: **>**
+- To check if the first letter(s) of a string have a smaller Unicode value (meaning the letter is closer to 65 or uppercase A) than the first letter of another string, use the less than operator: **<**
+
+Like numeric comparisons with the greater than **>** and less than **<** operators, comparisons between strings also return Boolean **True** or **False** results.
+
+**Examples:**
+![Screenshot 2025-03-05 022441.png](<https://media-hosting.imagekit.io//757d34fe83dc4399/Screenshot%202025-03-05%20022441.png?Expires=1835729692&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Ptu0eOzi1tSw3qkyHov1nFVHP4~If55sp32dEkE0VWLyiXGw57yULn9zf7LuSRhksGAfaBFydmXk9LGmO5Hxf17Ib2HSd~qedGbhhWCFiziH5l37Fk2yfGPIyYpLCkEuTOmVkK0JgOxjK0mkytb83qPTuJv1akWMOOfctusxpQFU2wP-8QLJ7uiRJSpE79D3CxnccoEnivs1EzUI9q5yLAX34UBtV7AG4EyAoT17Mija4CZAqGxu5hO5XEK8qIzI0iAFIS6ujjficnKv29g6joZaBB0y5beL3zevwfXImHdlSkU9SP224tIhl2PSauWUTmFlioa68eNk7WUAGD0asA__>)
+
+# PART 3: The Greater Than or Equal To **>=** and Less Than or Equal To **<=** Operators
+
+The greater than or equal to **>=** and less than or equal to **<=** operators can be used with strings as well. Like the other comparison operators, they will return a **True** or **False** Boolean result when a comparison is made between two strings.
+
+- To check if a string has a larger or equal Unicode value than the first letter(s) of another string, use the greater than or equal to operator: **>=**
+- To check if a string has a smaller or equal Unicode value than the first letter(s) of another string, use the less than or equal to operator: **<=**
+
+At this point, you should be familiar with how comparison operators work in Python. Can you determine what the results will be from the comparisons listed below? When you are ready to check your answers, click Run.
+
+1. "my computer" >= "my chair"
+2. "Spring" <= "Winter"
+3. "pineapple" >= "pineapple"
+![Screenshot 2025-03-05 022616.png](<https://media-hosting.imagekit.io//b034a60f43a54f8d/Screenshot%202025-03-05%20022616.png?Expires=1835729782&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=YrVCSpMflPYa18FaTyHgyzH12vCkrLhb73IpXWdlFyOmn9TZDyiVabFSbe1yYXpeNE7CF7hmvtM7mYCMT90ji5lFlNTpS-p2yjR-YNJDxYw05hiwe0Kqu49hyw56q4ECFRayIVVbqhWfx7PIyNNca9d-mnSqowN0Xgx3OwNxHwLtP0jxrZwsEtEP98X81-ELjpiX89tNu5w1wOdAkPRozEPAztu5HETRWoSZabg5GLGPvYLMHoyAeVRLfHdM0x3s2-0zH4G0qekffY15-3LRPJAMdsem0ux3K38zmtxQ9e258utT5f-cNM8xeKk3Vom~AlHh0gLlZTAWwQmyZsvzOA__>)
+
+# PART 4: Practice
+
+If you would like more practice using the comparison (**==**, **!=**, **>**, **<**, **>=**, **<=**) operators with strings, feel free to create your own comparisons using Any Python Platform.
+
+# 
+
+**For additional Python practice, the following links are for several popular online interpreters and codepads:**
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+
+# Key takeaways
+
+Python comparison operators return Boolean results (**True** or **False**) with strings:
+![Screenshot 2025-03-05 022858.png](<https://media-hosting.imagekit.io//76965ad44cdd4487/Screenshot%202025-03-05%20022858.png?Expires=1835729943&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=yRUzQK1pI7UbxpOYwCXK0hyzvQKgN5nzzHS2c0hLevZypoHJxL4eJk-t1bh3MUylrLcFQumqX7Imsx0wfV2kPyrBnVC0JzpIo~IiWgeESdUnvA6skssNG4G6PhuQz6MfMqru3USoy7loiLLOXNKunb44ErNDO2VLtgpwzGY12HLIu2NbD8rkFFvDzUhILkNp9FFhdSG8Up0XWBbnvJTTZ0esOO677oc4irzjRTIMHnkBR2E4Sm5p8e700-uxDSuk5y~5Rhtxiw7vRgfW3maxZlqNcmgsO~JKngS47hWDlT8YuoqMR9KpyFi0iSrAnt10D~HNQJBgkbQLEPzHAzGUNg__>)
+
+# Resources for more information
+
+For more information about the concepts covered in these practice exercises, please visit:
+
+- [Python String Comparison: A Step-by-Step Guide (with Examples)](https://www.codingem.com/python-string-comparison/) A quick reference guide to using comparison operators with strings. Includes part of a Unicode table that displays all of the Unicode values for both uppercase and lowercase letters.
+- [Comparing Strings using Python](https://stackabuse.com/comparing-strings-using-python/) - Provides more advanced examples of using comparison operators with strings.
+
+
+# Logical Operators
+
+Logical operators are used to construct more complex expressions. You can make complex comparisons by joining comparison statements together using the logical operators: **and**, **or**, **not**. Complex comparisons return a Boolean (**True** or **False**) result.
+
+- **and**
+    - Both sides of the statement being evaluated must be True for the whole statement to be True.
+    - Example: (5 > 1 **and** 5 **<** 10) = **True**
+- **or**
+    - If either side of the comparison is True, then the whole statement is True.
+    - Example: (color = "blue" **or** color = "green") = **True**
+- **not**
+    - Inverts the Boolean result of the statement immediately following it. So, if a statement evaluates to True, and we put the not operator in front of it, it would become False.
+    - Example: (**not** "A" **==** "A") = **False**
+
+
+# PART 1: The **and** Logical Operator
+
+In Python, you can use the logical operator **and** to connect more than one comparison. This type of complex comparison is used to check if two comparison statements are both True or not. You might use the **and** operator when you need to execute a block of code, but only if two different conditions are true. For example, you might want to write a script  that automates sending you an emergency alert if a server stops responding *and* there is an unusual increase in employees opening trouble tickets.
+
+**Example 1:**
+
+The following model demonstrates the use of the **and** logical operator to join comparisons between two mathematical expressions. The description below the example explains the order in which Python will process the line of code.
+![Screenshot 2025-03-05 023146.png](<https://media-hosting.imagekit.io//0e9dc34ebcde4a70/Screenshot%202025-03-05%20023146.png?Expires=1835730110&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TBJ4EOv99klKGVOYoRliPOz1YkNG-w7Md2OwnnxUfsTMAR4HYKFbN9RIQNb0NhQg3FqBnGGGIto9L9frR3DLB19DXZlEid5Zm-7s5Q447fw8qfirRdg1TX1dONgaA-NBWVH43rQqf4RMJwfaopc5CThuVhVQGY561zPppM79HDfVZKZ04ZnxZMDnp23fV1CBnC2nGeJkWusIdn4kC2AagdZm3vul9GCKCj6BZeehLLlgqoLS-RyLmsM6Cax2wGr2QOl14MdyKcy4lKoQQ~mwuQd0RtfYD8HJMydAtaaWD~E4Ey0ulcKqMhPwR1hV~XhVjyA5u8bstSDDsYXbyRy4eg__>)
+
+In the example above, the following activities were completed by Python in the following order:
+
+1. Python solves the numerical expressions using the order of operations. **(6*3 >= 18) and (9+9 <= 36/2) becomes (18 >= 18) and (18 <= 18)**
+2. Python compares the results of the numerical expressions using the comparison operators (in this case >= and <=). **(18 >= 18) and (18 <= 18) becomes True and True**
+3. Python checks if both sides of the logical operator "and" are true. **True and True become True**
+4. Python returns a Boolean value: True or False. **The complex comparison returns a True result.**
+
+**Example 2:**
+
+In this next example, "Nairobi" < "Milan" and "Nairobi" > "Hanoi", the **and** logical operator is connecting two string comparison statements. You learned previously that using the greater than and less than operators on strings will test the alphabetical order (technically Unicode values) of the strings. So, this complex comparison is checking if "Nairobi" is alphabetized before "Milan" (False) AND after "Hanoi" (True).
+
+This comparison returns a False result because both sides of the logical operator are not True. A comparison statement like this might be used to iterate through a list of names to check if they are alphabetized in the correct order.
+![Screenshot 2025-03-05 023333.png](<https://media-hosting.imagekit.io//6b1a456e8f0740e4/Screenshot%202025-03-05%20023333.png?Expires=1835730217&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=fUqExy7gLGVhVtkb3IkqBo7vf41AUJP9LdzGdSW2gNsfZRUM3ImKiUiOMDRe24mW~UDbs0NSRigCEzqTbQvuMUICYdsLslp8IrpyTBPCSYpcaxt4HMBm-3lnWNwxEdfv1Tst8RFRVjL~ivhccimIi~ktaHxF4x61Tdy~o1gIhEcg-WoB~zm03lxvsHc44DIT-0qeyNupL0WG2ggyV5GJQlAojxSoaarzML5jXnkjOuJ6EzAbxQ3vy2zHKImV78jClKiWpC2H4xMbhOPG5PmDKvlucg65VYqoJTNqkJtDpHT41~R7aonzrAqP60cmSlzcusubhFlil7YqFVmxHiy7Dw__>)
+
+# PART 2: The **or** Logical Operator
+
+The **or** logical operator tests two conditions to determine if at least one side of the **or** logical operator is True. The result of the test can be used to trigger a block of code if at least one condition is present.
+
+![Screenshot 2025-03-05 023501.png](<https://media-hosting.imagekit.io//18c8963ef9c441c2/Screenshot%202025-03-05%20023501.png?Expires=1835730305&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mWsqVUhW1uhU7XzRZLzprYEb9M~IvZuG4OZ-3Jfpu4tauTZN4Q~7YES3O8xlPkP~Fqw9sS0jmCKtvBd0gE9faEv7cfNTdPUcfg1XEeB0LcJnnTObdVO4YxPkCD1rDLC0gXWsu03dbG4UqlmQgxfId-FaOOhFXCiSAJFD0jJT9EAgH-XpHUFAH6pkXscnWF0xIHDFgATsRHmPJsBSu5PripLBNBE7ElyR3wB1lgVn8eYZooiFyLXC1SCIbbz6evVNUzUsOs1Abc7iv65CwLjxj-Ue328BKIKit4oork91QHoy-2c-v1r8rY4NKcGvjtZDYd76aPyvaG9YfwgQfDqKzg__>)
+![Screenshot 2025-03-05 023553.png](<https://media-hosting.imagekit.io//1c0e2ccc9f5545c1/Screenshot%202025-03-05%20023553.png?Expires=1835730359&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=gnmJXCBrHqv~lQyp7vGjoqaf1qgCITjaoLWd2pKG0014HI5n4KQ7beX6rMPz5auPFxBWU-hxgWlrRHG1wcqzAIBlucjN3C64viyr5Wfdo6m5LViFWjsYgRg5HiyoiKO2FZDg1-mXInSrgQry0ij5GloOQgIFdTHCdvk0k7RXJX8~kSddhgkbchDbEY27LUfJ7nZT10wS81xUBL90d2eUGXfLL1qyouQW1sokwoDe4nyHEjt0WFY9Ur8Yu-dBsLJnCBF5WB-sIXlRFviPwK0lkxEcCSP6E8cnQWQ5qu0LnPxI6oXlYfNNH50pJF0K2w5A~kTin4usb9FBdt4Ax5LWWA__>)
+
+# PART 3: The **not** Logical Operator
+
+The **not** logical operator inverts the value of the comparison expression. This is a helpful tool when you want to execute a block of code as long as a certain condition is **not** present.
+
+- If the conditional expression is True, the **not** logical operator can be added to make the expression **not** True (False).
+- If the conditional expression is False, the **not** logical operator can be added to make the expression **not** False (True).
+
+![Screenshot 2025-03-05 023728.png](<https://media-hosting.imagekit.io//dba65378032c4bf5/Screenshot%202025-03-05%20023728.png?Expires=1835730451&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TeKNYhqT~t~Ry3PbzkSFao7jkCKV9dmeJJOOkLeKwoYGepUVOa4FOhdOrF566RUfkyhqKrQv4BIH97OJmCNqULcfKh13Yi2GaFvn9cq8NcnTIdgu-~rVcJrS2JnNCjhLme2xrMn2inC4dUHbYzF2rvsnJbHj1jVUHBqnFbn7zwo32P1~ewYIltTWB0VWZCJ93UL3-D6erIskP1pRI7xxsyoTJkBxLj4PrhX9H~EZ6bcb9n9sb8BQCHmtVmFya8yfci2Whyslsl4ChSrj94vRf2fH4fqHe6QOKmi9InpUZCjQAzSDM-B03kJhDq-KP66EqA-2BxGr0~eFrdCS1Ba3rg__>)
+
+![Screenshot 2025-03-05 023822.png](<https://media-hosting.imagekit.io//51cc1be76b724a55/Screenshot%202025-03-05%20023822.png?Expires=1835730508&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=mxaqf4qldb6fIt0SovepMVK5S1bH7YbzSu-UURRfIKWsSKrnzZcGmFEQQ~GQT5B17oYcei0NPr1-CNxxaxJcPFWua2Tdw72oTWhmrTv2hfrSVjmNDyBUIepWqTj-2MrJRi7nZRypT2O5Sggy7Kc1x6cToQTxhRFHXElKFNf-hvPza4l9zM2iMHz7r7-~2NYNe4fbaVp96Pe-T8FcIRRCPF4~-ErnWAOts92z510X7eTUGJHKgKdTlPpg4nIb9b6U8n2QFtOuAsjZcgHg2NYO8hJqh7jgf~WkOBhtTQ6c4vXvgs90xKaeX4J2ITd4P4zAf0YTbmQdTYan6NyDTdFXFg__>)
+
+For additional Python practice, the following links are for several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+
+# Key takeaways
+
+When Python logical operators are used with comparison operators, the interpreter will return Boolean results (**True** or **False**):
+![Screenshot 2025-03-05 024002.png](<https://media-hosting.imagekit.io//7347587c36034ec9/Screenshot%202025-03-05%20024002.png?Expires=1835730605&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ljlVrTeazlp1W5Zcxt4esyeJ0Vq1CWyD4vrv-0IckgK6BO~sL3jZsy2GHw24Pb8uMXGZJQ2Q-wSol20E-M0PwPvyE53nCOrwPa8IbYRBBIgaLCP4VLRCHlO2uMxLyLlh9esbcXkbckALglZtMAsCJlSBKDyX2nLTmzr0SGtk-ZNrCSzcbJJ5TZ~jUkVQhgpX8S0-hDq26rsUBmTqKZiD3wKi~rUrLTd3BvsnVko1xxqQgo-aHMiqp63kiEv~nUElKAYro-gRBy7TuDhAz6SYiQXNqQsyT6o8gmaJYDF2EHrFk2VjzZsYdhw3D2I~egYiSZtPtDhqC4XXxqjp9CsDhw__>)
+
+# Resources for more information
+
+For more information about the concepts covered in these practice exercises, please visit:
+
+- [Understanding Boolean Logic in Python 3](https://www.digitalocean.com/community/tutorials/understanding-boolean-logic-in-python-3) - A handy guide for reviewing both logical and conditional operators.
+
+# Review: Branching with if statements
+
+This reading contains the code used in the instructional videos from [**Branching with if statements**](https://www.coursera.org/learn/python-crash-course/lecture/8xZqQ/branching-with-if-statements)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![Screenshot 2025-03-05 024147.png](<https://media-hosting.imagekit.io//fb4287685e9345d5/Screenshot%202025-03-05%20024147.png?Expires=1835730710&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=iI-2NzYblPXVQBe2Ba7MBZq8Iu15zFLdDunmu95RhXHPz1vOJ88yuQaPJxNxTeJD4-31LNcn4gBJyRiC6ZzqdFv9~pinLri6TFEykUS5lEz2DHdP9Kd7vEMYyPCw8iwIJhpuP90EHezeTgVHW2422wLpT53jnyvPfqnZD~xKX7J46OKT-GCWbkAXhqPKdUtYoUpMuB83PTSDTEOroz0H~WfRrsMTOfSQAQvEVd8YxZM2cgOI~AgIjqDIWwyzrHDWQaSa17i43Uzy1kUN-IVSMlSAR5wRTzrL3zKMzrNP27o88tfJiQTOMh8soSRNfEMlq6xUTBZDQmNOydQH2PGm0w__>)
+
+
