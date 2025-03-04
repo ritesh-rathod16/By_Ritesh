@@ -1,5 +1,5 @@
 # Module 1 >>
-
+![Mod1 img 1.png](<https://media-hosting.imagekit.io//cfbc7dc1d77a41dd/Mod1%20img%201.png?Expires=1835710424&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eqnCvyF96hWGgI1wJTBpdOaZN76oca6wyYDt74BbRSrjWg2gzPJ3wsOzhLWS4S6k~thUY6Ot5~g0x3YeWBRcW3l9N595pYAlFWqij0nEgPZA5Q~hU6AULkjODKOSaBj5LASP7pdZ-keIkp0Uz3RgX1Ct9IxRgb4aaxXbFRBIqJcnXRy62I7QugwXw-OBRtCbG-gmABtR7X7sdNUY5iJDlEkoV8IUT67e7RNIra0arhyw3FGYXVQo9ZXLua-87lqCipgnIgZXH~TInr4rVaOZIJ2-fkVKVYXTpVq5h3nx4u~e63MOobSpPzMJWzP944~zLlN7Prz842pDdBj6HOzSAw__>)
 # Study Guide: Introduction to Programming
 
 Your first practice quiz is coming up soon. This handy study guide should help you prepare for that quiz. The practice quizzes do not count towards your grade in this course. Practice quizzes are opportunities for you to check your understanding of the materials before you take the graded assessments at the end of each module.
