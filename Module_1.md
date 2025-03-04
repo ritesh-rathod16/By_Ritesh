@@ -1,4 +1,4 @@
-# Course 1 >> Crash Course on Python <<
+# Module 1 >> Crash Course on Python <<
 
 # Study Guide: Introduction to Programming
 
