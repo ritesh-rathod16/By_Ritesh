@@ -102,8 +102,8 @@ Syntax and semantics are what give form and meaning to a language, including Pyt
 Here are a few useful resources to help you get more familiar with Python:
 
 - Python [Reference Library](https://docs.python.org/3/library/)
-    - [Built-in Data types](https://docs.python.org/3/library/stdtypes.html)
-    - [Built-in functions](https://docs.python.org/3/library/functions.html#built-in-functions)
+- [Built-in Data types](https://docs.python.org/3/library/stdtypes.html)
+- [Built-in functions](https://docs.python.org/3/library/functions.html#built-in-functions)
 - [Python operators](https://python-reference.readthedocs.io/en/latest/docs/operators/index.html)
 
 # Review: Data types
