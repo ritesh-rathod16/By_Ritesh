@@ -1,5 +1,5 @@
 # Module 1 >>
-![image](https://github.com/user-attachments/assets/b8175f87-8693-4da9-8e44-3b70a6486fa7)
+
 # Study Guide: Introduction to Programming
 
 Your first practice quiz is coming up soon. This handy study guide should help you prepare for that quiz. The practice quizzes do not count towards your grade in this course. Practice quizzes are opportunities for you to check your understanding of the materials before you take the graded assessments at the end of each module.
