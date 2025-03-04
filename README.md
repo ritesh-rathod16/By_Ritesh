@@ -42,7 +42,7 @@ Fundamental Programming Concepts
 # 6 Course Series 
 ![image](https://github.com/user-attachments/assets/b8175f87-8693-4da9-8e44-3b70a6486fa7)
 
-# Course 1 Crash Course On Python
+# Course 1: Crash Course On Python
 # What you'll learn
 - Understand what Python is and why Python is relevant to automation
 - Write short Python scripts to perform automated actions
@@ -53,7 +53,7 @@ Fundamental Programming Concepts
 - Interacting with Web Services
 - Serialization
 - Creating and Translating Media Files
-# Course 2 Using Python To Interact With The Operating System
+# Course 2: Using Python To Interact With The Operating System
 # What you'll learn
 - Setup, configure, and use your own developer environment in Python
 - Manipulate files and processes running on the Operating System using Python
@@ -65,7 +65,7 @@ Fundamental Programming Concepts
 - Finding the Root Cause of a Problem
 - Advanced Troubleshooting
 - Understanding Errors
-# Course 3 Introduction To Git And GitHub
+# Course 3: Introduction To Git And GitHub
 # What you'll learn
 - Understand why version control is a fundamental tool for coding and collaboration
 - Install and run Git on your local machine 
@@ -77,7 +77,7 @@ Fundamental Programming Concepts
 - Version Control Systems
 - Creating Pull Requests
 - Using Git
-# Course 4 Troubleshooting And Debugging Techniques
+# Course 4: Troubleshooting And Debugging Techniques
 # What you'll learn
 - Analyze real-world IT problems and implement the appropriate strategies to solve those problems
 - Demonstrate techniques to quickly find and solve the root cause of problems in IT infrastructure
@@ -89,7 +89,7 @@ Fundamental Programming Concepts
 - Cloud Computing
 - Basic Monitoring & Alerting
 - Using Puppet
-# Course 5 Configuration Management And The Cloud
+# Course 5: Configuration Management And The Cloud
 # What you'll learn
 - Understand the benefits of configuration management and infrastructure as code
 - Create and maintain containers with Docker and Kubernetes to create efficient and safe application deployment
@@ -101,7 +101,7 @@ Fundamental Programming Concepts
 - Basic Python Data Structures
 - Object-Oriented Programming (OOP)
 - Fundamental Programming Concepts
-# Course 6 Automating Real-World Tasks with Python
+# Course 6: Automating Real-World Tasks with Python
 # What you'll learn 
 - Use Python external libraries to create and modify documents, images, and messages
 - Understand and use Application Programming Interfaces (APIs) to interact with web services
