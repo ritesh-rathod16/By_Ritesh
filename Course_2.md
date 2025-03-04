@@ -1,4 +1,4 @@
-# Course 2 >> Using Python to Interact with the Operating System <<
+# Module 2 >> 
 
 # Explore Python syntax
 
@@ -284,3 +284,5 @@ This reading contains the code used in the instructional videos from [**Defining
 This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
 
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![15.png](<https://media-hosting.imagekit.io//52711d1d34714069/15.png?Expires=1835714496&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2HIIBrXag8zA4xdAqbKDPf1lXVyiv8zyTZLgGDQKOxQRvtKmA5UDjlajiMzFSS1n~YuYbbevh3JqdUAOKI9dLWBeBNkZ1zHmsrKw4uIDDUINwx6LSp2q6Jk4vO7dmJ7zM1U9pT8pIuZn2Bp1BoH0-KoUiORlOKdC~Lg2QJyuJD2ZzzqU9-qwyQDH3SqZkaz1CyXQuiUesSDPrCPtNPdEf9BK47b6sJIssBV5OaY6d8VYpUYP89Q6jxgBsqoXRny3h6kV0r7JLw2jc3HOTXvicucK4vHFUlJ8hWoBIW7DLmzWMAc2wGcDIUQQLXeYyM5GOWOwbQxmulJ8U-kQe7TNpw__>)
+
