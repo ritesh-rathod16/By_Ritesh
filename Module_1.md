@@ -1,5 +1,5 @@
 # Module 1 >>
-![Mod1 img 1.png](<https://media-hosting.imagekit.io//cfbc7dc1d77a41dd/Mod1%20img%201.png?Expires=1835710424&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eqnCvyF96hWGgI1wJTBpdOaZN76oca6wyYDt74BbRSrjWg2gzPJ3wsOzhLWS4S6k~thUY6Ot5~g0x3YeWBRcW3l9N595pYAlFWqij0nEgPZA5Q~hU6AULkjODKOSaBj5LASP7pdZ-keIkp0Uz3RgX1Ct9IxRgb4aaxXbFRBIqJcnXRy62I7QugwXw-OBRtCbG-gmABtR7X7sdNUY5iJDlEkoV8IUT67e7RNIra0arhyw3FGYXVQo9ZXLua-87lqCipgnIgZXH~TInr4rVaOZIJ2-fkVKVYXTpVq5h3nx4u~e63MOobSpPzMJWzP944~zLlN7Prz842pDdBj6HOzSAw__>)
+
 # Study Guide: Introduction to Programming
 
 Your first practice quiz is coming up soon. This handy study guide should help you prepare for that quiz. The practice quizzes do not count towards your grade in this course. Practice quizzes are opportunities for you to check your understanding of the materials before you take the graded assessments at the end of each module.
@@ -139,8 +139,7 @@ Python is widely used in the IT field, including IT support, system administrati
 
 You will be learning about both Python and Bash scripting in this program. The following code illustrates a syntax difference between the two languages:
 
-![image.png](attachment:85c95961-fd2d-4f47-b492-6f2233d8ce53:image.png)
-
+![Mod1 img 1.png](<https://media-hosting.imagekit.io//cfbc7dc1d77a41dd/Mod1%20img%201.png?Expires=1835710424&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eqnCvyF96hWGgI1wJTBpdOaZN76oca6wyYDt74BbRSrjWg2gzPJ3wsOzhLWS4S6k~thUY6Ot5~g0x3YeWBRcW3l9N595pYAlFWqij0nEgPZA5Q~hU6AULkjODKOSaBj5LASP7pdZ-keIkp0Uz3RgX1Ct9IxRgb4aaxXbFRBIqJcnXRy62I7QugwXw-OBRtCbG-gmABtR7X7sdNUY5iJDlEkoV8IUT67e7RNIra0arhyw3FGYXVQo9ZXLua-87lqCipgnIgZXH~TInr4rVaOZIJ2-fkVKVYXTpVq5h3nx4u~e63MOobSpPzMJWzP944~zLlN7Prz842pDdBj6HOzSAw__>)
 # Key Terms
 
 - **Platform-specific / OS specific scripting language** Platform-specific scripting languages, like PowerShell (for Windows) and Bash (for Linux), are used by system administrators on those platforms.
@@ -169,15 +168,16 @@ This reading contains the code used in the instructional videos from [**Hello, W
 
 This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. You will find additional information throughout the guide to explain the purpose of each concept covered, why the code is written in a certain way, and tips for running the code. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
 
-![image.png](attachment:8f111c0d-193c-454e-89f8-a408ba9e7fb7:image.png)
+![Mod1 img 2.png](<https://media-hosting.imagekit.io//15198484b00b45c4/Mod1%20img%202.png?Expires=1835710570&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KL8ySQpvV5bh-V-22Y9wJl4KtK6uUq984H0zS3-s4pfC~iEtQuHkQR-GpqI-GmZ520eOktL9ANibi42nqUBE09RaCjZrBIUa22f0qSzLzB5xlBWUrsyH~AyDIi7x04k2BfUijaY1UrBiaEq7NLukznTil61nHus6ogRphWbBDGtBiqensI5hcYpCQXyT0tyE016yIIDIvjuQWweIARBa9fdaGuoXGrzfPf3bdtyaJWjMlU3Al1j79HeYWCTiE4fSOIy4vKI-j0Jy2m61IFxBQrD4uVjIohzspUHdIL-i9z6i78w1SVfChvMWOB4WsUk1mRYeMSrDeJ9H6OjGsLYvsQ__>)
 
-![image.png](attachment:c3369065-a5c7-43f0-9080-8a3aa4799f02:image.png)
+![Mod1 img 3.png](<https://media-hosting.imagekit.io//51b8d491e66e4383/Mod1%20img%203.png?Expires=1835710604&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=n8jK9JcczOstuvorFYdtLgLsHtIIxQe77Zlw7t8K6Zgg5yG12MODRMF71l2cQpzja5YadkPFGNXBa1trMBc9OWrRa0jDm~yAzRKU8H1ivYKSTLMZCMSQ8p5gPzuZnW4FJjJAVqmvf2F1xne5tReRdMVxWeM8Nm5VR0StJl7-nOeiqMnn4Qu76BkF8wee3qsHXlYE9vTh2heVoQySSk4ilEN-MGY2wwMjIbvCUSriH--Y2gs67NbkW5k4OCV~MTiFxUWXWNXQ220~pQrj9GgD3qgpcLfrzTLI87X~4GAK1MuskbV46XaMI750Q5qt1T45ANgHKEF~holw4Zc9cpZ2BA__>)
+
 
 ## **Introduction**
 
 This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
 
-![image.png](attachment:a4038e5a-570f-4a51-ad7d-613b5486c8b8:image.png)
+![Mod1 img 4.png](<https://media-hosting.imagekit.io//abe54b9cc5234400/Mod1%20img%204.png?Expires=1835710645&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=V2H5DGMNToeHV35FFkXAJTAGztYIfYkWFFHIcLekwrYdjiwgpLToibgxZfBHcOF4vjhaTz~MgObZ38CwjdD5G55IbT18ZNYGpqr1bFB78Bd5Z4GJUGJm3MES7~0YESqHpg8Q3HC5KBZuk2DxY3sKVRheufXswPt2UMOl2zLNeZiZQpeS5-qyEtMhRZ686nzznny1pKDMVGRO7hlwCNfS9bmr7wa7NOZgYMucmyfy79GjwZ2lKLksn-8YvdcqiEOTCaADONVO6E8rzwEEi7F8t~2FijNhIW1VsxoT8g2toxXqvcbH0YXUicr21lbr7aDPyPHtRVrPwESnCZRC6OjrwQ__>)
 
 # Review: Python can be your calculator
 
@@ -187,7 +187,8 @@ This reading contains the code used in the instructional videos from [**Python C
 
 This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video.  These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
 
-![image.png](attachment:94b983a1-ee47-492e-8c11-f1b6d6cab02a:image.png)
+![Mod1 img 5.png](<https://media-hosting.imagekit.io//a3ed8add14004e4a/Mod1%20img%205.png?Expires=1835710705&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Tfa8qbmT1xuAkJHVxYU44wGo~HXbiKx1LP5hqDrNsJ-iUlHJvlYm0J9a50HCBwt55oHnPsyFWZWwbYosmjzvYIaUacnB6jJ7Mlfc-Dv69OnaSXdVNcxuJ8sLRnIthARFs9-OT5XE1X-9N4asMOpXfpjADg-A0Re3Wq2hWcHoWu6ATpr1YGUfpRzs5zgXenrc9FA9Jl0SJESELGiBJjh4gXC9B8SR0lAITlf7GIJRhklIvkvNMzY22T-lCoK8Iz192ve69z8HAEOQmxwiwnTx8RQ9~LHXuyhe-~dHHZ2hExSsp62Z~XpWztw-kgCiURZzsKM0wNWGBjd18hbes7FZUw__>)
+
 
 # Study Guide: First Programming Concepts
 
@@ -197,7 +198,8 @@ This study guide provides a quick-reference summary of what you learned in this 
 
 A function is a piece of code that performs a unit of work. In the examples you've seen so far, you have only encountered the **print()** function, which outputs a message to the screen. You will use this function frequently in this course to check the results of your code. The syntax of the print() function is modeled in the example below.
 
-![image.png](attachment:98c417b2-0763-4db7-9ca4-06db4622acb0:image.png)
+![heh1.png](<https://media-hosting.imagekit.io//80471f8ee11b4bcb/heh1.png?Expires=1835710748&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=g3JWxuL4CFGMdlNpdI29Vrpg23zJCw9v-gnDr0Azhq4oLc9apjEA-Da9o6wX8YrV~8J8JG1iETHuA7ITPHJRJTWJB03H0aLBKXSWfgCR1CenM3dIvuL~Mivm6zxFbLR7gsZtWBUf~dvP0VB7ipLxdaBmPmi-qAVmeQW2bFtLs3bmz-ZazHG0a9h7VOqyAAcP55rnk-9t2QFwklPaBssopABFXHdey276VcHg3aVW47r6jEFjheDae27THmcGyvnTcKH8APUwCYxJBJ3U1C1xZbwUTkfOCO3XT7HLZ2jtuzUmvvRZCpjrJrZoAIxA5dDoj4qzYv3z190-oL71ZZMp1Q__>)
+
 
 # Keywords
 
@@ -294,13 +296,13 @@ Python IDLE is included with Python installations on Windows and MacOS. You can 
 
 Double click on the IDLE icon to open it on your computer. This will open a blank Python interpreter window. You can begin writing code right away.
 
-![image.png](attachment:5b76cee4-9059-4f3a-92b6-27640dc5fb91:image.png)
+![idle.png](<https://media-hosting.imagekit.io//8de110ef69e54507/idle.png?Expires=1835710787&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=i-LsvhShygi~axutQ78CbonulLssaL5jSfyOoj2BeRZm-ehWKOJqTZh18T8govkrgIyVvZP3AVtCDDysn81dTwHjxrUCwNT6KXjifMl4K5V4g9QB0cVEXGL3VVRXtY0fXKt0HwYByR-lRSYRWKRKiiFBPjPXfvO-X2dCwv0fTd-wksvHcmTPEVcDrV961zn6PCWQfF9ObXSmDc-JmNXTgpR-cb7ZZS1wJEhkWlVYsoVKtNAdSKREI19Y272wwDnZ7-cPfIqyKnVgC1Hzev5OSRIKgdgNfJCDW4tMYld7wzEBwxK-fJDgi5a-iu9D4UyYOti527z8iYKa1xT4gsNeiw__>)
 
 You can also open a new file. Go to File → Open → New File from the menu bar. Here you can write a Python file. Once you have completed writing your Python code in the file, go to File → Save As. Give your Python file a name. Hit Save. To run the Python code in the file you saved click Run → Run Module from the menu.
 
-![image.png](attachment:b97ecf11-257c-4d88-8ec6-401854fd19ee:image.png)
+![hehe1.png](<https://media-hosting.imagekit.io//1f728fc99d6c4c84/hehe1.png?Expires=1835710849&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1Yo5GevOEVLEgT-XKg6X3Jjc9I~kqst7JZRKkp4Jyrqlq-VkHz9vgJn4JL-brbcbrd6wRC91ft8GK6~f2ibXy~BuQI4bVPZZ1EbuRnN7NIAQjnld7MVxLSkC0IRJB-D1nK15SU-aqGmHnPqTbLNsYaqgtXHtAdF8Kp65XM-SH1sJUZBMdkRjVFNQ1H2nNns3pOBO32ft80rZjCGdWMIatD8WUsgydvdRoPcDPmTr9kq89QEp6acAKN8nGNc-10XvXMyVHoRiTghgcGek1uZgoRQjhdwkqu4jRCAOJSlqHm4XBvJYNSxyhLLtH-Qk7wHfXoIpwM~mh8GPU9f26KoEYg__>)
 
-![image.png](attachment:5f275cad-7ee8-482f-be6d-abebe6982c88:image.png)
+![hehe2.png](<https://media-hosting.imagekit.io//b6d82bdcbcfa4422/hehe2.png?Expires=1835710854&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LvKC2eseiGmfUJsRYteWW5GAf-v-z7treHznYCLnqCzRfzZ3VJy8O5uVsd7Y8hK6P5PL9ngH6CvV5dXoL3uCfi2QYYyIf56lzKxpz8u5rSL95sh5sVb2GjJb8EZa9c2c7eOKnISsHUtoC3dymZlcmYSeuiKnP27gnergMXbNTXr1-hhqS3aipVFG0nS87XoBAv5b0tpC3uQEbcdbFsExqpdLMevqVNB96quHs25yMQCLH9cjQn03~pLWqmbvnMjUjiqGuv6miLo4z-yzppDqnakfy7yoS8UiaZTMNKE4ThXCNQi7SyXjEJs42whfqvfPY0BOk64s9VruzrOefgpCAA__>)
 
 ## **Key takeaways**
 
@@ -395,7 +397,7 @@ You can download VS code [here](https://code.visualstudio.com/Download). You can
 
 Next, you will install the Python extension. You can do this by visiting the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ms-python.python). Follow the download instructions there.  You can check to make sure the Python extension was added successfully by clicking on this icon in VS Code.
 
-![Screenshot 2025-02-25 031850.png](attachment:12791cd3-9d67-4c9e-bd97-7c4faa6965f3:Screenshot_2025-02-25_031850.png)
+![h1.png](<https://media-hosting.imagekit.io//246ce5f127cf4432/h1.png?Expires=1835710943&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=0iyhbDr5GXrPZ1N~nxbqA0vXN8xYQMEFe19Coui6s08x2XZN9TVGZbx5GEC9qkPnVEhj3RuDufwmCFrAcBFitImZLIHmbf-gGHpyLj2QEIUEitkPASzEY4ZxLY40G1uf3efAYZCe1xE4AsrTLhIPf4GghL~qo5KmA15USaSQUCt7WfgMHBYOiFMAkZGlo6TttCfHz4pEijkDqKLlrLcVUH8hubbBeI2BpHa5neAAlg6n1gAnqAEBcfuVJNWPv78GmtW05hjcYimSH6fINK0gcxbf4NwZQfb0c8ThkdoayCSk1qMj0IDRyNJ-TDneC8ucVQZf606hVS4TDBhtRSOiyg__>)
 
 **Note:** You cannot use  VS Code Marketplace to install the Python extension on MacOS.
 
@@ -413,19 +415,19 @@ To create a Python file in VS Code go to File → New File… → Python File. A
 
 Next, click on  the Run and Debug icon in the left hand toolbar.
 
-![image.png](attachment:af854809-bb0c-4ebd-9be5-317aa883bb5e:image.png)
+![h2.png](<https://media-hosting.imagekit.io//d2a4e358d49847c0/h2.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sH2yUU9JuDn7kbFqx4i9u1JQEeDOMXmjZPZPpsRX3t4LgtKfY1PMudiD8CITOHx~5QsUsf1BCb7gzUbuAKS-fZn8u5HjbbpDCy5XVSLmAiaNkd5ic5Hex34yI9V3vcQ7oukLi6WCjETcheSuhg~P4msaycogUYYtWf4I0FcG9p2CgXma1mP6BjEPV0yoncZlBNgeUgzM3WATeyRwNPme~VZ8yXIl0POoMg7pkOdM4-4mIGkJFzdu0V-ydoOyQQiogNF-~PD3Qvbsmlqz~sS84rQXsPkj3aq3l01jr5Kbgri6qx3tox60gXXeiSTOpfsmZs~SoiQOww7tuijoqWb-UQ__>)
 
 Then, click Run and Debug here:
 
-![image.png](attachment:aa8c64c2-a520-4233-bf4b-d95b7407550d:image.png)
+![h3.png](<https://media-hosting.imagekit.io//03506b515d2e4ae1/h3.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=CbfVqB9j67rZCnYdmwTcSRrkdNLuGyLOQGq9uPlXQvGVzPoEBWlVJF0IemsU1qEag7mgZIjfFAAe5VSobuYHAJpdedHw8IMmeorRYMwH6gaf3c2GQPyi9fp8VS2JWpbqmNV5V03eSiEJ-iEp6HydlPcJOgB0TXgCPPSgiloxxdxD6I9d2R2IkCOgh4mUdslFnPhzloXMsib4qtfwpLMV0hMGSUgjlikFXdOsTy9tyRrzbAfdZGydjWDI~LvqZ6PDYtoMt7mc-HDCYgkobmrECNA4XDRYyvhHxpQkt-LGERJWs~5UWN5~FQ3J35f0~TFi~j0y9dUMJf2slQAwacSI4g__>)
 
 You will be prompted to name and save your file. Give your Python file a name and click save.
 
-![image.png](attachment:711f0f03-96ed-4df5-bccc-88c72f1ec8a9:image.png)
+![h4.png](<https://media-hosting.imagekit.io//f11ccf377af740fb/h4.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Dff080wY2BrkVQZDt0OyUoKo-jcLwEc4AOuAT9Y2EbIii1p2PMcMqltoFa92dmxS8zWkhZbC1G05yzNZAie-uUjqBsFd1oOmMSwGhjunVoVR5qOlIU~nNUA7DNSTj8GgmMv2oEknHZT5JT-UuBT2OzawI7uzjI38XlXBv7Nk2v1P8KCuVrlWOqI8WJiBd-6wXpbBwrBuAT3pDeYoAUUzReB4yzJzTuFo9JuUqEFcHV-lhJUZIk~BTsZzh5QU-BsYyjcczbT9C5wwxX8NboZHAc6oak65-TPSjEOxXU7UgANdL719-uAZKBqr1yqGhPvY9B8FxGKszDYGO3DuMg3CGQ__>)
 
 Your code will run and you will see its output here. 
 
-![image.png](attachment:b5bba973-33c0-40ce-a6d1-a418168616f1:image.png)
+![h5.png](<https://media-hosting.imagekit.io//f3f61e5203274547/h5.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vccg9msLqggScpyrAushPSkOLi0JRkykJsdzNGGnheuAIXgKHWIt-gJaro3tBctw5gZ1a6Pd6KN-Nj4LwyRcVwV~rUfwh5vrnbxyN5N2mt~3o14XpcM72tFCTceAbuJDilpxCA-mLzm8qiFfkB44HJJnAxEg0pkStDV5BZ75rOm6a-GRPamk3XsdMTyyQEN6bEnpIkPOAujFZ2KlKR5iaBpDM2dp2LfR8tlKJ57oUJg3z5EQ9GmzEerY~QnvyPC2FdjGFAgN5c9oiXO1qZ3pbTlS9TotaFAA1NZyLSwc1b~JGoZbJKQbFC~XfF1s-GLpK-rqprT2aEOpZsk4XVpMrA__>)
 
 Now  you know the basics of VS Code and how to use it!
 
@@ -565,19 +567,19 @@ It is time to prepare for your first graded quiz! Please review the following it
 
 - Use the print() function to output a string
 
-![image.png](attachment:7ea15bb5-f320-475d-95a2-c4981cd3b93e:image.png)
+![h6.png](<https://media-hosting.imagekit.io//7c4783b9f21e4da7/h6.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KPmCpbAtRvPbXyJivMSBlT40veM14gFnIc~9pVTyiUfKO2OzxffvVxnMZL-wFxdZ7gj2biRW63tr8A0XtQeLMIgKPewUxRwrsZP4Pai0pBc6yFr-NDqEuQd-113BFFKwEZmJ6AWZk-RpfJTZKPLJip9DFi9lhcx9MGBUq3ht32Su0fxkkG63Emi--zBGWdMxzBAvBiVfPo28wS8CNT~z4tojyqGw0SmQYFWM1r46TbW6RtBNIRCFKoNI9c6qw-GRD5zhdMiewzxWCgrpBdwjjs6EI1Tf7sIB93oubYHUZSUrqx96Exg~qZNbLZjzSdeZQgU4FzUYPVrH8YbP7600tg__>)
 
 ## **Skill 2**
 
 - Use arithmetic operators, with a focus on exponents
 
-![image.png](attachment:9f7d65c2-9f8c-4839-8824-1c82c697750a:image.png)
+![h7.png](<https://media-hosting.imagekit.io//972d61287bfa45fb/h7.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=rvZdubFk2AU~xRu3HSdSiK1has~ddW4HajsojmvCK68sMoPdKnjehh5VDPIg9qaDJmEDMopgbJd2aB3MTCZDufLCbynOZdcqryi4uT-pYTAm8RJfwy39ble9-SDFa3JKmYE1P5VjZwTngEQGzt6c69a6pNdH8eyUd8cdCteHa2RKPMlSRdkbgPCE~EL-lJTWqK94U9DGdToNoeZH4K2TbGAHeKA3sfKqg8lF-OtRHWsD96NqUKprgFTOradXpaalYw7gpICnZqNGbtkBNyz8TH3mf6V87ly0VXB90m6aJv4ksR8VsOfeAgWkNNMax14w3my2C5NfGWD~rSgcP6ErBA__>)
 
 ## **Skill 3**
 
 - Use variables with assignment and arithmetic operators
 
-![image.png](attachment:59b084e4-6048-4c07-9907-ba996d934cc1:image.png)
+![h8.png](<https://media-hosting.imagekit.io//81efe8cf4bfc40d7/h8.png?Expires=1835711014&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=j9lICYv9tkqnOVulES6Tslr3Jkqcglr5hpnYAYWOAca7qT4~OlsE1H5K0XeH5R0X9rFwCtjRQTceHsqclfpovzRZNogHRqaX8TLqj~xYF09HqKCRyotWG9aBdQjuA0q2Frt~5WWmvsQrNCBq~3x9aW7xfTX18B-gzfFOqf~cpiiRtOd-03LUtRs-M5htU6509Di1FkJM~gXQWoDREC7C5zEA08GcIkpl4vmOGxjXvFSyVtg5iwBaeUE6rLUc22va6069KtgL68TUmE9QxqNDOv0quzDW1TXiKzGMOW93PIj-Pt1XiXiG-bUiXq2jQxICLSHeuNkROxd7d89caMB9yA__>)
 
 # Reminder: Correct syntax is critical
 
