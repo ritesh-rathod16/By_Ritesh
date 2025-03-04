@@ -15,20 +15,20 @@ Coding languages are similar to spoken languages in that they have a way to clas
 - **Variables:** Represent data stored as strings, tuples, dictionaries, lists, and objects (note: future readings explain these categories)
 - **Keywords:** Special words that are reserved for specific purposes and that can only be used for those purposes
 
-![image.png](attachment:7fd0b2f1-7894-4857-b2a7-56dde7a3b521:image.png)
+![1.png](<https://media-hosting.imagekit.io//c7021cf1cc4546d7/1.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uTBssYEWGTmUd~S8uEodVt~IJ9GeSYSa~UNPgStNYrrCTYdS06rTFRGKixFPHdZlJyf4qZYz8XM9edrSHXimPstwpXWVW6dDthB2-r7gZSyC2d7r30b-mYMA7l3~yOpLq9D3DXepXCxJ9tl991oNTxBUlOTpM1QgrVW~f5PzafsxLsVUF8j6mMez-4peRXn-XrOX3~fj0s1voZr2SqpyOqw~~XEPNVvZMVVRwDIQyps9dOPRYlbO4xbGZ7knAkyWls1fSfE3I676eqEespPUwZj2AenOC7xZxz6037g-UPbyrlAyRTh86YPulu85qTz4AIeIXphUFuOSbeqOmK24Iw__>)
 
 • **Operators:** Symbols that perform operations on objects and values
 
-![image.png](attachment:abf9af28-d581-4f66-a11e-e95e83cc1259:image.png)
+![2.png](<https://media-hosting.imagekit.io//f87b3580339c481b/2.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=c28m4eqlebh3QH56zQXJt572yAye9R4~uKL-zeZy-FMS4aqVtgSu5HWT9x4rJAbvaa-Rf5thmA31E9nYBf9AGhjCm7l9sB7awRPAM7CddTrhHPGdOUifvk2sM57nz4b5WdAhdEED3QRdCUdOuOjdqN95CZ3nPoUdlDPbtdbhTJsHI4RlUvvl79gSCMJEcZ0nkV7Kk0L64msMsu1H0pRf3se8Kz1iJNIqFa0dOS3o2MLxIs1V-jnH6k0Oc55x8vBmajsXgSsWm50neNzZg-AefAOh~aCti8101oyl--RX3ca6OlgDWqH06hBfukR3reOv8GyI12mfTXLlX82-Ls9DFQ__>)
 
 - **Expressions:** A combination of numbers, symbols, and variables to compute and return a result upon evaluation
 - **Functions:** A group of related statements to perform a task and return a value
 
-![image.png](attachment:5066cab4-3405-4c3f-aee4-d6e6a95e6b56:image.png)
+![3.png](<https://media-hosting.imagekit.io//cb615d4e88804e64/3.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=n2wIFCUqnMDS7GamRFbeWmM0PIPB9itvXY4IHSuWCKnO7PgOZfp~XehNd2JuFdUVjWbpuf9yS-kEkSudjYcZNqNklczWq5~nV~xsfpvkcGa3Hid7cGlcc6x3j5-vNk2GfnChoyHr91DDVfMgOqh0F8dcjhDJtdjbgzAcvoCnBSDmlzUYgmICe03M~yjUBOj79Mp-Q8--tGleCPDCB4czXCNFJdrEChAm6YYTrSeWSIAcRHtA2dP7DPNMmHr3bTlXe7Woo3i683RNDSpZrd5DUPQctr4ECDYW86~cof8djNkYwvUSqhReFB6Fek9jiAg25ElBDRHcSfIgTmJBdQC3uw__>)
 
 - **Conditional statements:** Sections of code that direct program execution based on specified conditions
 
-![image.png](attachment:34ef9f0e-6394-487b-a953-f6f637c29c36:image.png)
+![4.png](<https://media-hosting.imagekit.io//8cf76f6cbbc4461e/4.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ZvIo-MCyP3MtAKzsP5TiKb9KH6-44Hna5r1cucLGYuMv~9RWAX-BMLw1MCPLmSa3riEx7L27RDprclzYQT3~4Pi1Sethl7lCGfZHXjnL5XpcLDaqUcSm3ffQ51aRKk6MLYDZESPo3hF0W3yIWNKbaa3qOs3KxW0rBzVbTar9d~WCW~vc6e4xyzVeWkuUVjmlL-3Opi~tml0LVP505uhN8EX6sISnvsONJoApAv-y4DjRT8WkGe6MvceQKHbTB1QOfdvAb6roXFpbQtybsJwYqvhiTGZ5ZGFd-v3Ff4CjoEb9JRRREanKHjL8N41-YKfbGFl4hqWDM7tIY9Z3D~elDg__>)
 
 As you’ll surely discover, Python generates syntax errors for incorrectly used keywords and syntax.
 
@@ -37,7 +37,7 @@ Example:
 
 ```
 
-![image.png](attachment:aaa7b77d-dc25-41c6-814c-a8e61f9b488d:image.png)
+![5.png](<https://media-hosting.imagekit.io//5fdce891d750459b/5.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=KhU0YKuc4jxgflDfpghj1RuCVXSnOJLclGXoolhMhGxnr~V3rZNbZvgxaYvmtRIxOa7LxMAS0uRY0OS0SSh884SC1nKNWPX-2c5NV8QEVuYxUzIab5KnnayWoneVMpk0AIupfiGpgai7SUL8tZdLmguRgRxqtNd7vtKL~ZmtdtP8Kx9RESo6TlSdWwUqAIveGdc5hESB~lbzjXincUQDBoMo60-WGZ~y1osc1JOBEDARoRcl5KwT4v~Pd9mYjJF1Osgx0MZ~kI0aKrXMvGKexfmZFO7E0Tm7FcTSOYB6EfQwPioO6OY57MOdSzu2mAmcrxQrQAUR2vekgockBQK~4Q__>)
 
 ## Naming rules and conventions
 
@@ -116,9 +116,9 @@ This follow-along reading is organized to match the content in the video that fo
 
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 
-![image.png](attachment:993da275-f79c-4abe-9e8f-253a5b0779e4:image.png)
+![6.png](<https://media-hosting.imagekit.io//9ed80f4ab3e44ebb/6.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=3G8ftjEDUVUs1PxePaOLhAD6ZV3i-Ni7TPsioyQcBfSyGOqfdEiogXiDKEbm9~A927uOjJ7Kjok9m68FLmeylsoz6rvyrZ0X3xPnsVQuuf8~ff9lHg2d5BAfP2yZanY-8ly5o6sS2qdc1OTTHBYA6Hx0xqd8ipekfAgDIsP2x7etNtAd15frQYS4qavizP9EChRmQzGPnN337rN7Axpof0zxOnTyY14OZ4ksQQ3wSw9DBtTqr1NwY2hnOZKft6Ui4cNqoUREEkbJ6mvZhgaS03VsfmhaCJun0kEc11yZDMd~-~Ug0Bp0rcVsQ5XUqXH2q1tOFecGaAZFeG-ZHxkGMA__>)
 
-![image.png](attachment:23a64afa-e6a6-43ec-9bb6-4c707d3e529d:image.png)
+![7.png](<https://media-hosting.imagekit.io//4c3feb0ef2304faa/7.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=FJSsQzrLZcgFepfn5v5e-a7ZKn8sKm0Aa85yIQDVUjx4qBw5WdusYCdiNx7hZi1mP2c5tfkCHc58-5R-LXN7TXD6l9GxV0-1aBA4EUZqyBLfBsJ9uPT7XRWLFOMR5pHmQeElEj7cg3Q3xaJfXE2CrUpT2pzSsGGGTDLKt5tAwx1glM79PMItnss7550GfraKt8XIb34QH4BnqaWxUD6xl26si4QbmwsfUEWdRlIARxAL70zBlJKyLTn7vn3RwUeKMjdmVSteW63WtYHOudJm0-KjoFrv0PehFAlcOMvNuED3x4T77zN0-AWy5sHu-VGFG5unlPuB3bgaxDtzHHil4w__>)
 
 # Annotating Variables by Type
 
@@ -202,7 +202,7 @@ This follow-along reading is organized to match the content in the video that fo
 
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 
-![image.png](attachment:906e0c54-c709-4d21-8610-57de89c0f8d4:image.png)
+![8.png](<https://media-hosting.imagekit.io//c553bcf5613c43bd/8.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2cx6bMZbkIRzXC6Wp5On6bhO5IKOzrI0j877cQpHlTGyfq5GdZ0ePiWVFstQQcmpXOxWztMr~9wJbYXD5zCE4rrxYTl1gyiZS4gLzTyma~ZSdu58Mdg-H-SL5lRCr7F8sKEmxBLxe4ZNjXtv8NtNiZTFNWVSP7LyMrrfIDRdjFCIwOCJF8ri29-2DrwLfhauK-oiLGhdggf4erciG6oEzCsUsi9XeZj3QjhhA0ECsUxcj6oZOz86mguelqGwcw37ABU7vSxallWVBND5gGzUaSiSixlkGApoR8UD94e-uLTqrF1PpWN2GHUwtgFRTW1LRHSRTH24t1mP2h7M2BVP~A__>)
 
 # Implicit vs explicit conversion
 
@@ -231,7 +231,7 @@ In the Expressions and Variables segment, you learned about expressions, variabl
 
 Type annotations are optional in Python. They can be very helpful, though, because they make code easier to read. Annotations make the variable types clear to those reading the code. They can also help you catch errors during compilation. In the example below, we are using the typing module to annotate the different types of variables.
 
-![image.png](attachment:319a10fe-a9d2-41f3-a54a-50b1ab318767:image.png)
+![9.png](<https://media-hosting.imagekit.io//c2596457480f46cc/9.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=0S8iln4hOlHyRxkXFpys5166FL-dxKfgJorJlixGm~j~6wG3T7P6k9n8DZXRE9wv8U2LenV9StSJNiU6KZB7bvfOvMgg0a8vGKRKKPEnFZAgAdI2-kJgkd2OaB5mu8u4d5JXWJIpvAC0ayHFjz639FvF1kwHGh30oA825A61e9F1BTtF17tk~hkmToP34F96VM9~Ra38QYd~VmrQD8W6KQDZUrsn0Pu03hSRnGqlFwwwgKzY8xEKlVOMi8btGUJmA7GCTRPwhZU3I6REHkoq3zjMQkZm2cp9rSFVTvpptx6uZ1U6-obr8gNZbH3LzeDQk8ZES3G4DXVF4PR4u55dgw__>)
 
 ## **Coding skills**
 
@@ -241,7 +241,7 @@ Type annotations are optional in Python. They can be very helpful, though, becau
 - Use basic arithmetic operators with variables to create expressions
 - Use explicit conversion to change a data type from float to string
 
-![image.png](attachment:a77e396b-2865-4fc6-b99a-7219b7ac7996:image.png)
+![10.png](<https://media-hosting.imagekit.io//3854c7bf69d74c2d/10.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=jYqVyU7J40jp-bPZ6Lz9n8F6NfxjYWLw3xmGT~SoKfl3G~0i49ArVlvyQrYUoD2nYsMxGdlPKyNRao61fHJwX40BDH5d6rR7gPqQAldEekEgDH6HKCwTVLJJM8Qz425b3IPdftbSGjoZPReN4GqBMTHM32z18BfqdCoPXNtVrKE4fRnYp~L-EqB6KGAKJDIAiLrSno31MWWkqE9s8Gc4FKcHY-q8kqX1pyXfuMKt8bN9IOkomlpK8IdrmD06jbvXjaFZGHiP90P2JIB1lEjuzIAvyRqA7O2cAvk4Tmhr~C4aRik612099luWhSqR9jvolM2SdMBKSduLjuL0ziFYlQ__>)
 
 ### **Skill Group 2**
 
@@ -249,20 +249,20 @@ Type annotations are optional in Python. They can be very helpful, though, becau
 - Use the plus (+) connector or a comma to connect strings in a **print()** function
 - Create spaces between variables in a **print()** function
 
-![image.png](attachment:f991a5c5-26b5-4c27-8fa8-c67f0b209fa8:image.png)
+![11.png](<https://media-hosting.imagekit.io//107889ddd59a44dd/11.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=URsHwrg9Z~GbBANLR0bXTrNv5SR6ZYoWIr8jgoNTNv6DYufWyM1JQqOtCiRqCnd74DX5OSwESmVLSVHquC1JkKMqxUG5OvYeQCenUZp~DoaJuCZPaNOwtrYzvQcex8OFy-1nCTIh34~f~6H6N3Fpe04z9ehOPThTGMgbISMU-F-ZgaatlmcXUVp5i8Od1QYlI10kupZqX84qI7f-N5CQRTxiZeAg20UbyhUD8y6j8TBSvJ8ltyjUjDvVCZGUsNKPST2n1OcONdH9rUFXFjXTxRBBOQ-SkuOK7dQgANpoXJ3MCxFZzozkeoGFMDmWxQv4Zb09v4hnZGq2Oz1fJ3c9mg__>)
 
 ### **Skill Group 3**
 
 - Resolve TypeError caused by a data type mismatch issue
 - Use an explicit conversion function
 
-![image.png](attachment:9f095c80-4f16-46e6-a67e-04916897322e:image.png)
+![12.png](<https://media-hosting.imagekit.io//f357046356d244ee/12.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=pdzgR55vKqVlJBC4n~sucGeSFQtkvoz4t3zP1HDY7KFCcccDzi02rhgY-flqCl-KXCxR~ir221ss0riJbym-HG6BmiRSU5wC20zPI-OAq4QXTj6fw~9JHUkF~CkaAuDuq8uYnKCxDyMI1A95ztjb84Wp7bkIWJ8QSVG5jacPOotr7P7f8CzPsIV-V62jlc9C5Qa7iJTcdihVZ6kepBng0EMlocoqCYtfpF5EZR17KUaGh03r2A2py8zE71tRabEFtFHQ1XiepYBcUoe-XMZnBdmcpJhm5wylASoIxlaqWRW7R3e5anmrW4DywOVAnzg8ttqR5LEDcTcz1fYhaiqRHA__>)
 
 ### **Skill Group 4**
 
 - Resolve a ZeroDivisionError caused by an attempt to divide by 0
 
-![image.png](attachment:c39aae11-7dc7-48d7-b02a-6ec0f187f49a:image.png)
+![13.png](<https://media-hosting.imagekit.io//94a32811613f4d2e/13.png?Expires=1835712372&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ag9~NvaPwRsx18cNa1~Lq5RHKyFktpb-q-1h5jG~v3uOi5ArKD238Pjh~L-Nkbjg-YXujsew6O2FeUbF5fAJm~aM1loRNaLnPX5K8VZjiYYisgfUNoMiHJZ9j1ayDMnbxi5PlyTWvhyLOilibiG3jDnbON~ZHnazYWgcVUM05FMJSYZZKVRZiOA~6thr~96HBO-8KYDb00QuzTsc6O5BPBnLKJid~OEFp~vq1WWK6bs-Dt98uzR16YPxay~3PVfDzAMg-CxEMhTFUsGUm6sIKoAfDPVox5vIqwp8TDDuK7SjkXmA13UkXhv-YDZtx~DzLjIv2BBeU2720H8jaurOwQ__>)
 
 ## **Python practice information**
 
