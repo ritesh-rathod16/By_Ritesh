@@ -286,3 +286,89 @@ This follow-along reading is organized to match the content in the video that fo
 
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 ![15.png](<https://media-hosting.imagekit.io//52711d1d34714069/15.png?Expires=1835714496&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=2HIIBrXag8zA4xdAqbKDPf1lXVyiv8zyTZLgGDQKOxQRvtKmA5UDjlajiMzFSS1n~YuYbbevh3JqdUAOKI9dLWBeBNkZ1zHmsrKw4uIDDUINwx6LSp2q6Jk4vO7dmJ7zM1U9pT8pIuZn2Bp1BoH0-KoUiORlOKdC~Lg2QJyuJD2ZzzqU9-qwyQDH3SqZkaz1CyXQuiUesSDPrCPtNPdEf9BK47b6sJIssBV5OaY6d8VYpUYP89Q6jxgBsqoXRny3h6kV0r7JLw2jc3HOTXvicucK4vHFUlJ8hWoBIW7DLmzWMAc2wGcDIUQQLXeYyM5GOWOwbQxmulJ8U-kQe7TNpw__>)
+
+# Built-in functions
+
+## **Built-in functions**
+
+In the last video, we explored built-in functions in Python, including **print()**, **type()**, and **str()**. **Built-in functions** are functions that exist within Python and can be called directly. In this reading, you’ll explore these further and also learn about the sorted() function and **max()**and **min()** function. In addition, you'll review how to pass the output of one function into another function.
+
+## **print()**
+
+The **print()** function outputs a specified object to the screen. The **print()** function is one of the most commonly used functions in Python because it allows you to output any detail from your code.
+
+To use the **print()** function, you pass the object you want to print as an argument to the function. The **print()** function takes in any number of arguments, separated by a comma, and prints all of them. For example, you can run the following code that prints a string, a variable, another string, and an integer together:
+![Screenshot 2025-03-04 225108.png](<https://media-hosting.imagekit.io//43192142bbe44b06/Screenshot%202025-03-04%20225108.png?Expires=1835716910&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=L8bsBvjkUsibCtKBAOdrQ6bBKsJaD42SLGg-MFJdu93p4lj5aj1~US60pI2Bt~Z~B1L64~16dtTYuiYhjRbVV7OSyZVFQdT3bJvxfRXF2av8OyzsSqLyq6U7YTRbbQVVYpZBYAiFnVXVxnk5ZyUq9FABdPbmbFI0JX-uF2uDXKTrRr2RDS2mqvaok4RK1HV2saalYOVB-sw0QUYhF0aVBUGInQUpLDb59YhTdaWAvm-3uVYEA~FN0jwB-lgedeKk4ehNXzETEuryrTcMgfcGkcRazUUIIL6J6HNK8AHnJQgpvIO9uLLh~2BL2Mxj7fSlo-K-8x0ir9oqUVqyQI3hsA__>)
+
+## **ype()**
+
+The **type()** function returns the data type of its argument. The **type()** function helps you keep track of the data types of variables to avoid errors throughout your code.
+
+To use it, you pass the object as an argument, and it returns its data type. It only accepts one argument. For example, you could specify **type("security")** or **type(7)**.
+
+### Passing one function into another
+
+When working with functions, you often need to pass them through print() if you want to output the data type to the screen. This is the case when using a function like type(). Consider the following code:
+![Screenshot 2025-03-04 225309.png](<https://media-hosting.imagekit.io//56f9670de3b3483d/Screenshot%202025-03-04%20225309.png?Expires=1835716993&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=TX4XtDbsvniRU6hw~binIHnfj63mco2mb3U043mNz1vOy0s5jOVGKJHX7DVGFtxkwJrb-0ddhvbYLMJhDlPmRSt9Aq-UkzsE3YaFI3tHieq~e0e~hBrLdB4R1mt5UWmogoddRdXc~ehGAsYNK5yuGnLchT2DGwoEDtZns1orNQY9dKGCd5RpoeHcZnfcU53Z0wy0xdxkyK6ikF~5OL2IFniJNn5akb-HxyFfBrLrdyxbYqiqPMkDB097W6Obt4-uYnErsRuG7prjLp553lpsfWfdh1BzSqicyk2rdLi~7lafthBpMDRPzLmYl1yyVdEG-j9eQNTdBFo54KGYrPtNlA__>)
+
+## **str()**
+
+The **str()** function can be used to convert any data type to a string. The **str()**function takes a single argument, which is the value that you want to convert to a string. The **str()** function will then return a string representation of the value.
+
+In this example, the **str()** function will convert the number 12 to a string. This will run the code and print the string representation of the number.
+![Screenshot 2025-03-04 225458.png](<https://media-hosting.imagekit.io//bdd1d63e756d4ec5/Screenshot%202025-03-04%20225458.png?Expires=1835717109&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=L2VR4bhC5iPVKnfc9~npM4Be4mr2cRvYNYNTKD-kSG5HLCW1qTBU7RX2XEdjJLJuER0jqfuMpNAMqhn-u5ZyFnP3YFXCy9MOOiYV6pSLOqwfH1zSp1VxAKX-TU~1eUOOZEkjSGqJKD9RW~glC6Swe0CHUXqDWXvAT~w3Q9LAtdLDQY1Q3Z2CR~wFQxmBJPxG7taxq7xvWNyqlxoXRywr3bQArW~4JJ5hPSZKLlIYn39vH7cuHtAnhWZF-XuAHym7Xmjv22eM7gZJSUc3BfXlyGMMot1uaOEBqt36dLnr8VvvIf0FE6trja0aEbhPbVVrbKck09jHslqfYv11yZK9sQ__>)
+
+## **sorted()**
+
+The **sorted()** function sorts the components of a list. The **sorted()** function also works on any iterable, like a string, and returns the sorted elements in a list. By default, it sorts them in ascending order. When given an iterable that contains numbers, it sorts them from smallest to largest; this includes iterables that contain numeric data as well as iterables that contain string data beginning with numbers. An iterable that contains strings that begin with alphabetic characters will be sorted alphabetically.
+
+The **sorted()** function takes an iterable, like a list or a string, as an input. So, for example, you can use the following code to sort the list of login sessions from shortest to longest:
+![Screenshot 2025-03-04 225631.png](<https://media-hosting.imagekit.io//2439327a598c4a44/Screenshot%202025-03-04%20225631.png?Expires=1835717192&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=zuwkD1Yd-KPnFFza4Tm837JT5S9sZFRrhyfWfy1FtgxSog2-vsygrkeWV0QAW84YwSHOVDtl4CA-AKLWFyfiwMkI349hthVg1nNLWqaR2OrZvzYQ7ksFEa3u0x5StWjTLlXUq3qDzL7K4pL9D~ljNjYqbWpcnsunR2egEHRr1vKzu9X23WqvZFu7JKfxCu4aBhMTnsvjkYIXE8ICO0UaB8DVKubTb6Zt4RgYvwwKAxT68Iyvr63qSTB57ttb3R5AB39sUHgbP03pPnkXqs2JIwufenMRWtVZk9DP~inB~ognKiC1h6Nh0vzXWdhIu57LbwWsWqwtiR6TGXuhz3dbCw__>)
+
+This displays the sorted list.
+
+The **sorted()** function does not change the iterable that it sorts. The following code illustrates this:
+![Screenshot 2025-03-04 225726.png](<https://media-hosting.imagekit.io//edd9186e84aa444c/Screenshot%202025-03-04%20225726.png?Expires=1835717262&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QNEoodjjDcSz6F28UoU9sLk~XIH~tr6s6hjp~tHYUaShEmJSq3gEt1bUey9b-Mlh07NINl~1jX3O1J0v9NlLyS2nO4KAVte~rxOaTJCBpgpYeDxoddtXK110CZy1GD42fPUPnPOba6SL9EpT-GiVL1mdRxf5LzfBS1-9LdzgDB7hWXR9ZUeC8NVFGDiD-Ca6eu0K8xGHjZX2Uj4vWjTjsYl9S7bKER0RDbSwQZ8XjcWhb2lLXZ0hHxK0ZW7C6LdlqNsv7EHHSCogEjhPdBfIhPRHqEVoiqjcsLlnuElWjy~nGm21HOoffdfJ32d31wGNq2n00bv1F-4YrCA4DNryFQ__>)
+
+The first **print()** function displays the sorted list. However, the second **print()** function, which does not include the **sorted()** function, displays the list as assigned to time_list in the first line of code.
+
+One more important detail about the sorted() function is that it cannot take lists or strings that have elements of more than one data type. For example, you can’t use the list **[1, 2, "hello"]**.
+
+## **max() and min()**
+
+The **max()** function returns the largest numeric input passed into it. The **min()** function returns the smallest numeric input passed into it.
+
+The **max()** and **min()** functions accept arguments of either multiple numeric values or of an iterable like a list, and they return the largest or smallest value respectively.
+
+For example, you could use these functions to identify the longest or shortest session that a user logged in for. If a specific user logged in seven times during a week, and you stored their access times in minutes in a list, you can use the **max()** and **min()** functions to find and print their longest and shortest sessions:
+![Screenshot 2025-03-04 225900.png](<https://media-hosting.imagekit.io//5aa9db5c5b5748c1/Screenshot%202025-03-04%20225900.png?Expires=1835717348&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=EljuKRyGgVraKb3rZ1ILhWmSu4fjSV3j-kIJ8-pRt~gUfY-XgbjpYKLCVkKih5n9PA~l59jP6YVuM4-hTanfCpkpqidafgyba1WzDxM8W7WOTSghoAwO7NTXPytr1yhya8~UGdWQp3EpcP-sHt1LNY9tLvlEt4uGNkbb1~KnuuikHrpT-U24VIsVhVYIfXuljFpkzY2jxS6wTz2s0yZWBoTFxC67~ejH8eo75nevB82ZtGhF9R4dNiteKz9lmptGZ-RN09RJMOphfULViFl85oW~18jF~-Lodn2SkjUZRtxw~cbCAXa11gwWrK1NtzLRxY-J2De10P97vC56a8urvQ__>)
+
+## **Key takeaways**
+
+Built-in functions are powerful tools in Python that allow you to perform tasks with one simple command. The print() function prints its arguments to the screen, the type() function returns the data type of its argument, the sorted() organizes its argument, and  the min() and max() functions return the smallest and largest values of an iterable respectively.
+
+## **Resources for more information**
+
+These were just a few of Python's built-in functions. You can continue learning about others on your own:
+
+- [The Python Standard Library documentationOpens in a new tab](https://docs.python.org/3/library/functions.html) : A list of Python’s built-in functions and information on how to use them
+## **Key takeaways**
+
+Built-in functions are powerful tools in Python that allow you to perform tasks with one simple command. The print() function prints its arguments to the screen, the type() function returns the data type of its argument, the sorted() organizes its argument, and  the min() and max() functions return the smallest and largest values of an iterable respectively.
+
+## **Resources for more information**
+
+These were just a few of Python's built-in functions. You can continue learning about others on your own:
+
+- [The Python Standard .Library documentationOpens in a new tab](https://docs.python.org/3/library/functions.html) : A list of Python’s built-in functions and information on how to use them
+# Review: Returning values
+
+This reading contains the code used in the instructional videos from [**Returning values**](https://www.coursera.org/learn/python-crash-course/lecture/1B4o4/returning-values)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video.  These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![Screenshot 2025-03-04 230448.png](<https://media-hosting.imagekit.io//30471b5a67054ec5/Screenshot%202025-03-04%20230448.png?Expires=1835717772&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=j821BHAdCfyGerKL1VCSHz20CPsd~rFlAPNIdZ2R7jp7wEILI-jZlFCag-~jE1usGg1ENlymMRVCKkioTsXxrm6VEipwscxb-pM0piDHUyvtxjnPK59MB6TDTuUMIhxzyjqnm6kn7xR3u6SH4K8f0d97I5CSEPPsPLn1216WrLaBxmo16ao29l3yer85yTSGxHcaZpGnOS8muEx3UYZ7MTfBN2Qf1wow7DdUV3g43zUiIv5qMahf3NLjgyIh1FHbIAzBCFHbyf0LargGOGaaZfNLa6m2kO6dUMfpNNn9F15EG2hRlWbMPpg0-5xpYDlRMhxE17Y34FLxvlPMepNPqw__>)
+![Screenshot 2025-03-04 230523.png](<https://media-hosting.imagekit.io//e7a86d813bff4f97/Screenshot%202025-03-04%20230523.png?Expires=1835717748&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=t4envcHz~1K58cbmm~SIl1eL7UtefOqtUITyAoRvb~pDImcS9AZOSTIrxi8LLWAz1CNfqMJBjZCC3BoakwEhtFAAj5j5addIp2uIDHp4jhVKibqpG1NV1T8H~Ih0aBsqlq6-VNqoRQZGEcNR~pKeC-zVWEuuFomXH1eylomI0iAR2uoeRU8OrcxlOAUZojQTcU2yHQre5qDt1pPnu5FkUUyXpNZ177aghnLLpbhTYUDZViHSfiP~jIEiZSn6GsNOGpxXFDUNRsVG3ydjfq9KCY2kTw60p9u~fLTbLYbXHTykvJCLsnkOAq5YCTWRGkRXDsnc4qqloho5l600F43DqQ__>)
