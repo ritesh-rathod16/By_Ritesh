@@ -682,4 +682,140 @@ This follow-along reading is organized to match the content in the video that fo
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 ![Screenshot 2025-03-05 024147.png](<https://media-hosting.imagekit.io//fb4287685e9345d5/Screenshot%202025-03-05%20024147.png?Expires=1835730710&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=iI-2NzYblPXVQBe2Ba7MBZq8Iu15zFLdDunmu95RhXHPz1vOJ88yuQaPJxNxTeJD4-31LNcn4gBJyRiC6ZzqdFv9~pinLri6TFEykUS5lEz2DHdP9Kd7vEMYyPCw8iwIJhpuP90EHezeTgVHW2422wLpT53jnyvPfqnZD~xKX7J46OKT-GCWbkAXhqPKdUtYoUpMuB83PTSDTEOroz0H~WfRrsMTOfSQAQvEVd8YxZM2cgOI~AgIjqDIWwyzrHDWQaSa17i43Uzy1kUN-IVSMlSAR5wRTzrL3zKMzrNP27o88tfJiQTOMh8soSRNfEMlq6xUTBZDQmNOydQH2PGm0w__>)
 
+# Review: else statements
+
+This reading contains the code used in the instructional videos from [**else statements**](https://www.coursera.org/learn/python-crash-course/lecture/k2wDX/else-statements)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video.  These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![Screenshot 2025-03-05 122926.png](<https://media-hosting.imagekit.io//f3740c7c1564405e/Screenshot%202025-03-05%20122926.png?Expires=1835765989&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=lLyqBq6UpKTZNoV08WtGpXUCEuR1WPSwh-XYA0iq8EW40K~UuTZFF2q8ilo5Lx3tRs4enOWx0OLHB4yyLaY-7t4nUFX0W6lPmH04I4wXhDUhsq5inhqJA-JX7IK2DdqHz0nBfbtt2w6tigRFWM3RZGf7UjueThGRtHCWuB3sDUFTC3YZ10BUSwH0Bj3pi3lPIg-lWU9TvqCPoFa7y~AVaBXbaumyffOaL19~L4kql~xULy4NN0iZu16~bot6f-EDjbnHoCvp8Kl4MMW1yWBCymSyKR25MgaH~iPMdr7-DCQ7VM5EcOspLqW8nup217iY9n6C4i7ypcp81YwTvE-r0w__>)
+
+## **About this code**
+
+This snippet of code defines a function called **hint_username**. The **if len(username) < 3**: statement checks the length of the string **username**. If the length of the string is less than 3 characters, the code inside the **if** statement is executed. The **print("Invalid username. Must be at least 3 characters long")** statement prints the message "Invalid username. Must be at least 3 characters long". The **else**: statement is executed if the length of the string **username** is not less than 3 characters. In this case, the code inside the **else** statement is executed, which is the **print("Valid username")** statement.
+![Screenshot 2025-03-05 123100.png](<https://media-hosting.imagekit.io//4654e1842596441d/Screenshot%202025-03-05%20123100.png?Expires=1835766078&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NikWvjMuUe8A0XdIJ0LQX4FFZW4d9FhDynQzp-Qq28Wbc~00rhJz56e~z8DYts0JCpfCpBoyxTXNtkh~lPy7Q2QKxc5RIg62NTwjX7k2kg87rE0EhrMjZ~aSms7feXS1IEoARMTjAYHcBsMd3xp4LVjkfl4L7I3cNXwkDVWuZ8T1x7K8TBJuMrs8jfSWB7kvwXTpnqIhVFzK3udrHGvIbFoLApe3nt158uez6HTfFugACNHqe52O3~5Dy88eyMIaWU8mBaCLauCOFyLnHc~ISydRUy6hbuNe3XB7tRx4hJg~lt0429DaEFN4J5QxiiiiyqaHqBxZgC76gv-rY19z7g__>)
+## **About this code**
+
+This code snippet defines a function called **is_even**. It checks whether a number is even. **if number % 2 == 0**: is the part of the code that checks if the number is even. If the number is odd, it will return false. The code does not have any output currently because it has not been provided with a number to check.
+
+# else Statements and the Modulo Operator
+
+We previously covered the *if* statement, which executes code if an evaluation is true and skips the code if it’s false. But what if we wanted the code to do something different if the evaluation is false? We can do this using the *else* statement. The *else* statement follows an *if* block, and is composed of the keyword *else* followed by a colon. The body of the *else* statement is indented to the right, and will be executed if the above *if* statement doesn’t execute. Basically, an *else* statement provides a backup plan for when the *if* condition isn't met.
+
+We also touched on the modulo operator, which is represented by the percent sign: **%**. This operator performs integer division, but only returns the remainder of this division operation. If we’re dividing 5 by 2, the quotient is 2, and the remainder is 1. Two 2s can go into 5, leaving 1 left over. So 5%2 would return 1. Dividing 10 by 5 would give us a quotient of 2 with no remainder, since 5 can go into 10 twice with nothing left over. In this case, 10%5 would return 0, as there is no remainder.
+
+# Review: elif statements
+
+This reading contains the code used in the instructional videos from [**elif statements**](https://www.coursera.org/learn/python-crash-course/lecture/A9mHE/elif-statements)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![Screenshot 2025-03-05 124405.png](<https://media-hosting.imagekit.io//4a51da0d22554d0f/Screenshot%202025-03-05%20124405.png?Expires=1835766847&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=NgGkYSPuUxwBwTrBrCLwUib-15T3P2EZUIkb2ndxGLlprPUENH73nQuVwqqHPtPnClhOy0RnuQPDDdfmVKGBOYS6G75kLu6CW9bK2av3EjH00W-T2HgBFvBrp9k47aV4SzAll4TTUAV5D3-Ncawx5Xng16nuzk9AdolnDAJj1YpSjX4EDEnvTBoEq5n1OTudSGbodB~CgRdMFoHD1UABCSzLbn4SmDay0nF7ate0S0oM1fxkF35rtc7PKAYk2r1h9MOLREqgQ8g1yB~WNzvNhTRQMSo-tbin69GnotpBPOzvArAbaJ4kXTKqzG5LdDsCZK3n2XFg~aRUU1ZSe2XCeQ__>)
+
+## **About this code**
+
+This snippet of code defines a function called **hint_username**. The **if len(username) < 3:** statement checks the length of the string username. If the length of the string is less than 3 characters, the code inside the if statement is executed. The **print("Invalid username. Must be at least 3 characters long")** statement prints the message "Invalid username. Must be at least 3 characters long". The **else:** statement is executed if the length of the string username is greater than 15 characters. In this case, the code inside the else statement is executed, which is the **print("Invalid username. Must be at most 15 characters long")** statement. If the username is the correct length, between 3 and 15 characters long,  **print("Valid username")** is executed.
+![Screenshot 2025-03-05 124527.png](<https://media-hosting.imagekit.io//72d1bc26a7aa4abb/Screenshot%202025-03-05%20124527.png?Expires=1835766929&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=thKHNPVFBhSUBibmTl5N85ycTZiminjnSzP~-LJlbeSJSEX1S-wSkv0cd185Nt7Qt1ypIuyHnSLL9fwYPV5y1~7tjsTH6b6j9BvwRifJ9QKKOzc0tLjPLpdHFi5C-3l5Q~d70BqtpRqy4oDPbzNLPJaz9PEO2oIcUtRk8TsbR1hbI9V8ka7U7E3yx5dF0w6cxwxq68ROxYfuvoy2O8K6ZABOoXmjvIpGmiUfZt5xtZvMvc4rqor-a1XLDeXM6k8nDZav6lVTJwwqa3qo5voZU3B42ZKZD-RoRsyoXQx1X7UivbHFt83Msj7Km~LuxxKsH2nhPvcsKvKpCLKKm8w16g__>)
+## **About this code**
+
+This snippet of code works the same way as the code block we just looked at. The difference is that this code uses the  **elif** statement.  **elif** statements must be used along with an **if** statement. The **elif** statement will only be checked if the condition of the **if** statement was not true.
+# Complex Branching with elif Statements
+
+Building off of the *if* and *else* blocks, which allow us to branch our code depending on the evaluation of one statement, the *elif* statement allows us even more comparisons to perform more complex branching. Very similar to the *if* statements, an *elif* statement starts with the *elif* keyword, followed by a comparison to be evaluated. This is followed by a colon, and then the code block on the next line, indented to the right. An *elif* statement must follow an *if* statement, and will only be evaluated if the *if* statement was evaluated as false. You can include multiple *elif* statements to build complex branching in your code to do all kinds of powerful things!
+# Study Guide: Conditionals
+
+This study guide provides a quick-reference summary of what you learned in this lesson and serves as a guide for the upcoming practice quiz.
+
+In the Conditionals segment, you learned about the built-in Python operators used for comparing values and the logical operators for making complex comparisons. You also learned how to use operators in if-elif-else blocks.
+
+# Knowledge
+
+## Comparison operators with numerical values
+
+Comparison expressions return a Boolean result (True or False).
+
+- x **==** y If x is equal to y, return True. Else, return False.
+- x **!=** y If x is not equal to y, return True. Else, return False.
+- x **<** y If x is less than y, return True. Else, return False.
+- x **<=** y If x is less than or equal to y, return True. Else, return False.
+- x **>** y If x is greater than y, return True. Else, return False.
+- x **>=** y If x is greater or equal to y, return True. Else, return False.
+
+### 
+
+## Comparison operators with strings
+
+Comparison expressions with strings also return a Boolean result (True or False).
+
+- "x" **==** "y" If the words are the same, return True. Else, return False.
+- "x" **!=** "y" If the words are **not** the same, return True. Else, return False.
+
+When used with strings, the following comparison expressions will alphabetize the strings.
+
+- "x" **<** "y"	If string "x" has a smaller Unicode value than string "y", return True. Else, return False.
+- "x" **<=** "y"	If the Unicode value for string "x" is smaller than or equal to the Unicode value of string "y", return True. Else, return False.
+- "x" **>** "y"	If string "x" has a larger Unicode value than string "y", return True. Else, return False.
+- "x" **>=** "y"	If the Unicode value for string "x" is greater than or equal to the Unicode value of string "y", return True. Else, return False.
+
+**Unicode values for the alphabet**
+![Screenshot 2025-03-05 125610.png](<https://media-hosting.imagekit.io//ab4bde0f57da43e8/Screenshot%202025-03-05%20125610.png?Expires=1835767572&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=ZfR1mLmTwfwyTsea4H9AAqh8tLBL9rx4HDq6-jXYScfw32wHCM~0fT3s874osieECFLtNATahodOCCjatu9PGriAjkUo61TJ9MMQIv3UXZiWeopT0pUfyN9pt3PjgCAH1LgC2w7osYeQAFKUIuzstOBvudCttwrtdhfuBl78O4tfzbkH18J8kg4nA2sbXGxaUYNYofgz9eUE7mDUNdHP-Rkc5p41OTkW06nGbg3hSFMJnE5bDH7zHpF9VlRsN7k6VZOZCK4hE249H1ILrxCYSpH69vBqJdmIEP~Ef~uapa-4sTJ72wIGzRgg8vInx-cNjEeDTpRi7LAM5vM6iBjWgA__>)
+The Unicode numbering for the alphabet starts at 65 for capital letter A and runs to 90 for capital letter Z. Then, the lowercase alphabet values start at 97 for lowercase a and run to 122 for lowercase z. Using these Unicode numbers, capital A's code is less than the codes of all other letters, which Python interprets as the beginning of the alphabet. Lowercase z's code is greater than the codes of all other letters, which Python interprets as the ultimate end of the English alphabet.
+
+## Logical operators
+
+Logical operators are used to combine comparison expressions and also return Boolean results (True or False).
+
+- comparison1 **and** comparison2
+    - Returns a True result if both comparison1 **and** comparison2 are true.
+    - If they are not both true, return False.
+- comparison1 **or** comparison2
+    - Returns a True result if either comparison1 and/or comparison2 are True.
+    - If neither comparison is true, return False.
+- **not** comparison1
+    - Returns the inverse Boolean value of the comparison.
+        - Returns a True result if comparison1 is false.
+        - If comparison1 is true, then returns False.
+
+## Syntax of an if-elif-else block
+![Screenshot 2025-03-05 125715.png](<https://media-hosting.imagekit.io//d5d1e969eeb54a37/Screenshot%202025-03-05%20125715.png?Expires=1835767640&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=umBDESi61SxEsaTEvizaOViktUoKZGLYKgmlG5ikxUogO1o7LveK97puWT-Up0aKxU0iiOClmQDvrX3JOfPcSZSiKcRK9Eln5cfebcDEgLQ-7lEHou-X6yOKtW00N3XE-Pn0JBsmHnApDIYZ~LnkY4gMz8iy~nKQ2RZ9~7D8~L1TUL8T1tOnpe4EwpiECJ7Lvg0UQWYxkTXws1RJbVzp9Q5oqp5UyPAEGAV-uZd0AWP~rEP7dmxpyIJcQs-Q9m0Fuj8khu7x4ZcrwRz-O4SBvc6tS4iG95Huf2KLWw0SwS9CGd87naKUZ5ckfxMgTYVFSVG-~R7niN9HHGSt24vtAw__>)
+**Skill Group 2**
+
+- Use a function with the def() keyword
+- Pass a parameter to the function
+- Use an if-elif-else statement
+- Assign strings to variables
+- Use conditional operators
+- Return a value
+ ![Screenshot 2025-03-05 125953.png](<https://media-hosting.imagekit.io//343c10e574174e36/Screenshot%202025-03-05%20125953.png?Expires=1835767798&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=kVL5eKNmcgrPVLFtAcqpWARK0E1uDsMBmZaKu~QRs7oBerfZBJU7P~C7tG5w3RPJEHi9eqxv3XWaiVs93nnNhDE2pxIqRmKarEX9Lp6oLTt9dfxRpiI3RJud4UnzMob--3rVcP-hC2MP8YHoCnagxqg7aFvUnwJpQr1aVRu7J-di~bxVHdfle6cZaA511-7pbGF-UTs6nsFemrwnIBS5Fn4RRgkRd5~Ja4GO6imy4hFabz~6MKvCFedLyjzvalLMs33K3ru34Nck7aTR2MBCXCpf~1X0clw0yNX3uN02VHjODU0Rp~oSgyOOleHHkSTZwAcSuyNkx3O3yeHzUyp0yQ__>)
+ ![Screenshot 2025-03-05 130039.png](<https://media-hosting.imagekit.io//1fb3ef5ae9c947cf/Screenshot%202025-03-05%20130039.png?Expires=1835767844&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eBQJhoukTWgpJ8F3SMkmLwHE7brh0vIxCNVrxwB-FHoMuQ2-qHr2l3TA03pxXgZb~gvv~bdlRnLjo3QNxLxFbqSeL2sFmUYbiHpVR4l2XNbVkie~wkwXL9sDITvgBG0eUfqiYoFAz47jLCAFu5S6QNRBXmOMcRC4zZFkloDkXsrvXppXulpFcZx1N0M5r7gLFwYLzxHusRs9k63nD4tKgsxPBOSHA9JEL~nrWo9DLH64xHYrT7fQrN~78XLYaWfbztdcS5O8LD4xfSjt6T7GlHSuJHTG7~WusiiJ3VmQOXkRWgDM7eo-r5YtidI7bDflroCVutCzmxKjk8zJYhWKKA__>)
+**Skill Group 3**
+
+- Use an if-elif-else statement with:
+    - comparison operators
+    - logical operators
+![Screenshot 2025-03-05 130425.png](<https://media-hosting.imagekit.io//9fa35fb9f5824ab0/Screenshot%202025-03-05%20130425.png?Expires=1835768069&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HWansTU6xqFOxyuYMbgotFPCZslmB7avT47xf3Rj7nzDMzxaoawd-oTiXA9PvJZXdUOcoBLXlHYRz2Q4MivIemLnA9eAr9Cf4i3QSsx4wsM82yogWFkkxLnKlGdwyyFa50iNhbrOv2KUh6o2EiKLKwhxF1rZ-Tnc4IdAzScaPtvtz5YYzpNkhNS9iDWXsmttLgh2Z4wkOtN4zvem06HM8bMXMft~ALHitX3m9BmGEx~PC9Toz1o59WxnMQe7l4NWq5HFOfMwt-4wRdiCSGm0UCitpbB0jZtAaGSSq38T-xQHKHVUcytYoJ03ZIEZQN6YjsrpHpKX7RNBGVHloZWosA__>)
+
+**Skill Group 4**
+
+- Use an if statement to calculate a return value
+- Use conditional operators
+- Recall the arithmetic operators // and %
+![Screenshot 2025-03-05 131336.png](<https://media-hosting.imagekit.io//f142dae529174953/Screenshot%202025-03-05%20131336.png?Expires=1835768622&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=LAVAU1VXq9Xxw0u6wGSY8JwWspXFWXPEzSPiMJdrRls~1aKpDjYqALAZw9CIE-6Dk-or7onaIZgTRiIKpMgi3vFCAjLsZFGQ6V9iPz~C0iS7bAuSMC36mjOZjQPmtsuoUeXVxomDZEL-a9XMlLf5pyF~J5OY0q1sO8qV53WZtuwZgFNtbiGCMzva7AiefAvBew2T750fTm53tPRLF-~YU4OsPFK3itNWaSbc2kXmztEFYxPt93vO1R7bZZTXh9bxsp3pEqfG1NITqJ85d4aQGUMC21HpQ4svWjje5ot5Ek6PfPLxrQ67nPQyswn9OBokRisy2CD-dSDz~WX8zYxUHg__>)
+# Python practice information
+
+For additional Python practice, the following links will take you to several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+
 
