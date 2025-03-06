@@ -818,4 +818,112 @@ For additional Python practice, the following links will take you to several pop
 - [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
 - [Your Python Trinket](https://trinket.io/python3)
 
+# Glossary terms from course 1, module 2
 
+## **Terms and definitions from Course 1, Module 2**
+
+**Built-in functions:** Functions that exist within Python and can be called directly
+
+**Comments:** Notes to yourself and/or other programmers to make the purpose of the code clear
+
+**Data types:** Classes of data (e.g., string, int, float, Boolean, etc.), which include the properties and behaviors of instances of the data type (variables)
+
+**Explicit conversion:** This occurs when code is written to manually convert one data type to another using a data type conversion function
+
+**Expression:** A combination of numbers, symbols, or other values that produce a result when evaluated
+
+**Implicit conversion:** This occurs when the Python interpreter automatically converts one data type to another
+
+**Logical operators:** Operators used to combine or manipulate boolean values (True or False) to create complex conditions for decision-making.
+
+**Parameter (argument):** A value passed into a function for use within the function, controlling the behavior of the CSV reader and writer
+
+**Refactoring:** When a code is updated to be more self-documenting and clarify the intent
+
+**Return value**: This is the value or variable returned as the end result of a function
+
+# Study Guide: Module 2 Graded Quiz
+
+It is time to prepare for the Module 2 graded quiz. Please review the following items from this Module before starting the Module 2 Graded Quiz. If you would like to refresh your memory on these materials, please revisit the Study Guides located before each Practice Quiz in Module 2 : [Study Guide: Expressions and Variables](https://www.coursera.org/learn/python-crash-course/supplement/nLGXk/study-guide-expressions-and-variables), [Study Guide: Functions](https://www.coursera.org/learn/python-crash-course/supplement/SshSU/study-guide-functions), and [Study Guide: Conditionals](https://www.coursera.org/learn/python-crash-course/supplement/5Y1CI/study-guide-conditionals).
+
+# Knowledge
+
+- How to assign values to variables and use them in code
+- How to construct a function and use function parameters
+- How comparison and logical operators can be used,
+- How comparison and logical operators behave with different data types
+- What type of results simple and complex comparisons produce
+- How to alphabetize strings using comparison operators
+- What must appear after the **if** and **elif** keywords
+- What the **elif** keyword does
+- When an **if, elif,** or **else**statement will execute
+- How to use the floor division // and modulo % operators and why
+- How to use logical operators with comparison operators to develop complex conditional statements within an **if-elif-else** block
+- Best practices for coding and their benefits
+- What “self-documenting code” means
+
+There may be a few questions on the quiz that will ask you about *either* the *output* of a small block of code *or the value of part of the code.* Make sure to read the instructions carefully on those questions.
+
+### 
+
+# Coding skills
+
+## **Skill Group 1**
+
+- Use a function with the def() keyword
+- Pass a parameter to the function
+- Use an if-elif-else block to set specific conditions for a variety of actions
+- Assign strings to variables
+- Use comparison operators
+- Return a value
+- Call the function in a print statement and pass parameter to the function
+![Screenshot 2025-03-06 155134.png](<https://media-hosting.imagekit.io//d5b3c03c49574db0/Screenshot%202025-03-06%20155134.png?Expires=1835864590&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=uAFTjfQJgnFz8fuUnk6JMKyQwhMHQxbrg6eNqAaefp6nCNMTyvlQI4wsp8S~iiKTIvcZLqnIAJA7HTrrt14B1~1QJPAvzvq0ECvVWdzhYr2akjgUN9Qn4j-KIgVsgeKosSh6vJXwgEfwlIiwCQDWaBVo0Qj~hpO~mRBRDoVI3~t3Pbkdwu1wPRMIu4TFzfie46Z6ZfKor~wGLmSYEJ5zOZaJn6r42Nioteng3gpio57CDJe~IOqa5Hbrs~MthGc5S8uPt6rkVfOHZt75-A57d19jK~5EuLuiKD1UHnbLywPcRCyxjTWFWWHRHWucMhFIrYg-Ogaj23vzqUcyZ2Q-YQ__>)
+## **Skill Group 2**
+
+- Predict the output of expressions written with Python’s syntax.
+- Requires an understanding of:
+    - Arithmetic and logical operators
+    - How functions return and print values
+    - How if-elif-else statements work
+    - Comparison operators
+  ![Screenshot 2025-03-06 155510.png](<https://media-hosting.imagekit.io//a70c3bf4bbbb495b/Screenshot%202025-03-06%20155510.png?Expires=1835864713&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=z8UG0Egd8xJLP0O2E8P14P3-umOI9ktW9-yrLX7QA2kZRm1~7f0jXIO38yAjE-BB7j4lU8bNQcTkOOeDSO~-bbR6dRDXKLelLJSrVYaX3~VwSUBN4ZEtNk2Ght~VShWNCz6yi0O3cNC5HNB-V7N6MSH-zYzKaBnPHW8cgOahzmVizLnRVa6JnDVSdTvEyShScgH4MYUz2OoQ7CwjUQEdM5~bpa0t02s5ysaSiPIzJ8oUICOXxnOmgXd34EvC99CAuUZw2FkPHwL3yByNA55kPAPAEH4GCltnZwGt1TdIvbxkuqPe-appqEGqhJZiShDe-l6QdTpPLVYv-LayE137hw__>)
+## **Skill Group 3**
+
+- Create an if-elif-else statement with:
+    - a complex conditional statement using both comparison and logical operators
+    - values assigned to variables
+    - arithmetic operators, including the modulo % operator
+      ![Screenshot 2025-03-06 155644.png](<https://media-hosting.imagekit.io//f8ee7c1fefe34bb5/Screenshot%202025-03-06%20155644.png?Expires=1835864807&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=GH0chjaVfjPr8rRc-wl1JM2Ftp4hyq4Y7mzVBZZS56p4RWbeT28KTsbLSWPTD4PU3KFmOcRAAYKjVrXIMJPSTmxLVweOwEw1O~OQ4t-OPyM3p7BipxpFeSVVGppwCl7P6tNgE4XnCb0pA6t2-ZBg~1qp23Vv6mLcKS-FdKyRxbV7PZuMtaqIB2le-3ROPkALcEvbiJhr7TUntigMoH1m8X0VW12BurWfxOiW6vM6g5kOKnM6-owOqGlX9Nn1kZXNSkV4mu2pytxOYwc3qK7Y7wXyLLU1hS-DsgfwT68YdRPdRG56Lt4WmzvyKgHU2sae0qs9cavKHb4j6sOJtGNyGA__>)
+
+# Reminder: Correct syntax is critical
+
+Using precise syntax is critical when writing code in any programming language, including Python. Even a small typo can cause a syntax error and the automated Python-coded quiz grader will mark your code as incorrect. This reflects real life coding errors in the sense that a single error in spelling, case, punctuation, etc. can cause your code to fail. Coding problems caused by imprecise syntax will always be an issue whether you are learning a programming language or you are using programming skills on the job. So, it is critical to start the habit of being precise in your code now.
+
+No credit will be given if there are any coding errors on the automated graded quizzes - including minor errors. Fortunately, you have 3 optional retake opportunities on the graded quizzes in this course. Additionally, you have unlimited retakes on practice quizzes and can review the videos and readings as many times as you need to master the concepts in this course.
+
+Now, before starting the graded quiz, please review this list of common syntax errors coders make when writing code.
+
+## **Common syntax errors:**
+
+- Misspellings
+- Incorrect indentations
+- Missing or incorrect key characters:
+    - Parenthetical types - ( curved ), [ square ], { curly }
+    - Quote types - "straight-double" or 'straight-single', “curly-double” or ‘curly-single’
+    - Block introduction characters, like colons - :
+- Data type mismatches
+- Missing, incorrectly used, or misplaced Python reserved words
+- Using the wrong case (uppercase/lowercase) - Python is a case-sensitive language
+
+## 
+
+# Resources
+
+For additional Python practice, the following links will take you to several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
