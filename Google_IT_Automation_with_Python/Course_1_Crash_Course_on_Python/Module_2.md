@@ -800,7 +800,7 @@ Logical operators are used to combine comparison expressions and also return Boo
     - comparison operators
     - logical operators
 ![Screenshot 2025-03-05 130425.png](<https://media-hosting.imagekit.io//9fa35fb9f5824ab0/Screenshot%202025-03-05%20130425.png?Expires=1835768069&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HWansTU6xqFOxyuYMbgotFPCZslmB7avT47xf3Rj7nzDMzxaoawd-oTiXA9PvJZXdUOcoBLXlHYRz2Q4MivIemLnA9eAr9Cf4i3QSsx4wsM82yogWFkkxLnKlGdwyyFa50iNhbrOv2KUh6o2EiKLKwhxF1rZ-Tnc4IdAzScaPtvtz5YYzpNkhNS9iDWXsmttLgh2Z4wkOtN4zvem06HM8bMXMft~ALHitX3m9BmGEx~PC9Toz1o59WxnMQe7l4NWq5HFOfMwt-4wRdiCSGm0UCitpbB0jZtAaGSSq38T-xQHKHVUcytYoJ03ZIEZQN6YjsrpHpKX7RNBGVHloZWosA__>)
-
+#                                                           >>>> YOU HAVE SUCCESSFULLY COMPLETED COURSE 1 <<<<
 **Skill Group 4**
 
 - Use an if statement to calculate a return value
