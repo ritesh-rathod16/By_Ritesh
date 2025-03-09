@@ -652,3 +652,49 @@ Use a for loop with the range() function with the end-of-range value included in
 ![Screenshot 2025-03-09 144433.png](<https://media-hosting.imagekit.io//a3ce58412b0b486e/Screenshot%202025-03-09%20144433.png?Expires=1836119675&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=dZzaV~Zvtltx~V9JvyQCjmiBGQist2EHDd-UPmvV2hVhqTIzQJgAhhXRQI73WCYNrdSWGmc3XEc7W~RAHi-WQOmn55yfB~rUV~WbbX7FEJXfIWBs20ujCZJTRTxgylqjjXXXP0FDCYNjiinQr1M2pbgkpMjNfLy~-hyjHe1uCLKr1VvNgsnbmyhm3Fhd9eCSyyoYf3-ctH~vyz6n4wsDLT2rrh1nU9yBlOIcxhTp1oHGvM8cAabSHnV3nkrYEKWzLRwqJLB7v~lTaNtiUfdoumNw-zDQo3zpi5cgY2TtQ5SrCTueZfxPAt2aYdQqlc2m3ZyDC5zEviqgd2OqGwNqvA__>)
 - Find and fix an error in a for loop with range() function.
 ![Screenshot 2025-03-09 144800.png](<https://media-hosting.imagekit.io//a1c35a43e42d4481/Screenshot%202025-03-09%20144800.png?Expires=1836119884&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=QLa1vj6wUsr~~Thb3Z9RipRA8jp~3L88KFiGbt7kzBZFmZg8A381zr~MmmC3OxvoSGOhkZoTJ2wdAAdaHXj4m-Q5XykTMJUW--nRs6y1slptETO8QqQgE3hw3yuKaK87ksacsFMyAAsoRHStLL4-G-ldcvxEe-qY~0C~ptbFdw7X9LMH~T2FGmGHnGzaIU3LxjAFJknxWC1aXR2978OVpyb~oIXbp68uxjzlW9Rahb0bkvvS456RsCYMFAnAMB~qxgqSjq-e9~VmUVrmWdPX665ZMQhP7GH4AdhYn04tqiAQaagFuXb7vA9SakccOhm11r41IBEmjEPVyEAd3Q6rhQ__>)
+## **Skill 2:** Using **while** loops
+
+- Use a **while** loop to print a sequence of numbers .
+![Screenshot 2025-03-09 145046.png](<https://media-hosting.imagekit.io//9cc059c400054d01/Screenshot%202025-03-09%20145046.png?Expires=1836120049&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=S0QKsHHLPO-AkbG3LRLNFyhH8uJ4Glr4QKYyaYT7cHWcVaTWCQ~YTOc703Q-CicFfm2~trpWj~E10sKiMsTRzLK5Xq215uuc3bxafnZTkgy4pgv-rzV5ufAaHsIFk5J-pOIfTpZO0U0WVmb5IMjNxMMKqObt2f2X01uBDMdpXpW5nEaf314QZqZQE6goMu09XJNNkeFg6YShigu0AJGLCLM35ujKcJacFKqMstK0YM3hzvMkRp5-zKd3qsb8MrPoJWeGmxf-6t~Ext9BoqNy52geMSkdCV2TR9Uh9UggLHlx0djD-KOSh0ZdYSLjZB9E1SQPU2zUHqNpRiySMgieLQ__>)
+-  Use a while loop to count the number of digits in a numerical value
+![Screenshot 2025-03-09 145152.png](<https://media-hosting.imagekit.io//9c1bb3fcd9db4d43/Screenshot%202025-03-09%20145152.png?Expires=1836120118&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=sXvm28AkwNkrMDCVpzC-Yqsg~rk0Lcn4PxaagB88nnrTJfqODzOWTzfwrlO0eTM7ULkiDN9-V7WUKXOegEixV5-4K0xs3g8wCzhSWK0kS3X13f4ySUNm3~Uv2fXvATsbf8DibnkxdPS4yZmWsWkZ4U3UJsCM7XR03~saYhLALLNDAHt05p9QPoDVguml05tQSptretr9XfKbc3K7s~pnczF6tEcK1lhIcl-JYX7efCC93zv76rxBR7K8FQuFYqVvnAGiGsbOH88H4jCRMpV75HAcoI9Xc7A3JA2twwoOCP4VIBdFUV0YrMJ6CsrJvIv2U7seEIBQa-KUW4c5pp-~wQ__>)
+## **Skill 3:** Using **while** loops with **if-else** statements
+
+- Use a function to accept two variable integers.
+- Use nested **if-else** statements and **while** loops to count up or count down from the first variable to the second variable.
+![Screenshot 2025-03-09 145358.png](<https://media-hosting.imagekit.io//d7fd3ce148904c78/Screenshot%202025-03-09%20145358.png?Expires=1836120241&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Bq7StnZbPldwWFMhSBUNBRMxkCUTIY4lG4rOeckUoA9z54w7T-RiUlWauOK84DGS0KrK6pMorWluNJfGyak0jDqYSpOma6cbL7bcQ8eL~bBGogHautwMoZAlXku2z4VX1Q8-W-h1yFyC8v1IlUmkPRBEZAFnR-pnAtsxhyQ4Y2tLqM758VsVZH~kpIlJvYGIDe9-Z6Ud-0C5guh0VU4Astt5XBc81XRMM0ybgZ4ardTTxvgrUQGd9yo7YY5bcyDoNRmFU8IYvwvfMRy25vaIOm7gBHZq-bAflt60L~B7iYX8MibjoBIPac7pH2j8gxQEiAVNA3PGirzz3JKFKa7PRg__>)
+![Screenshot 2025-03-09 145330.png](<https://media-hosting.imagekit.io//4f30ba14599e42f9/Screenshot%202025-03-09%20145330.png?Expires=1836120254&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JdyT6rZ77ikjqEt0P3iX1SsQLiJxdQ1S6k742TNur2TGhgrk6xe0sR4FA24BBQAo7cweB31vH7zYB7RFW~7vDxsz8JNu896HmtYQtEfSsaYvZpBhQLlANyWjJRa8~tAYb8hK1MwOfRbFgUuiZXPbuXECR72b0vkYK8n01XY9c6laM12XVbYACBLmUKWP7mbc7Pj6QT-A44clNfNBzdqz7ia3BT6-pm-eIVWIqvgLcRMlRS1DBjtWi0dZYlhql6-63j6QosABjpFQUc15It6U7UBRNKkfV~ZEz1Uwq3XNk5LZlwqSlWX-~j2kxvN3V3xhUqeitQevlJl342gdR~guzQ__>)
+![Screenshot 2025-03-09 145718.png](<https://media-hosting.imagekit.io//4ff90c473e9e4078/Screenshot%202025-03-09%20145718.png?Expires=1836120467&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=fbOnz66IALRFE9MSO-nr-NglSBd29TGOvA9eq1vMRNvuNLrtLiMA8Yz62ZEqgRbLQ9KAJyr~uGSXmw8-6rfWOhxvp-FS1uIbe0zIl2pZlPs7-KSGctbSTYmHEKg7NR1Mb5Z9LbA~R63MvU9T8g8IOu5gJeHq39qfh17PZUEMzC4dbrG6EYSu886mJB2tvAEF~TBua9nW8Cx~~g158jN37p3ld9FbWjzg0u89Fbh980jYy~UsinrUyGRyOGLKq5WQqs7nHsb6dllEYeZo2Jjbzvk0-FoXPSX49LHs9qI0Z6bI6daNUlMEJi36IKY2i0I~1NGFSyvo1sjELDVy2vu44Q__>)
+# Reminder: Correct syntax is critical
+
+Using precise syntax is critical when writing code in any programming language, including Python. Even a small typo can cause a syntax error and the automated Python-coded quiz grader will mark your code as incorrect. This reflects real life coding errors in the sense that a single error in spelling, case, punctuation, etc. can cause your code to fail. Coding problems caused by imprecise syntax will always be an issue whether you are learning a programming language or you are using programming skills on the job. So, it is critical to start the habit of being precise in your code now.
+
+No credit will be given if there are any coding errors on the automated graded quizzes - including minor errors. Fortunately, you have 3 optional retake opportunities on the graded quizzes in this course. Additionally, you have unlimited retakes on practice quizzes and can review the videos and readings as many times as you need to master the concepts in this course.
+
+Now, before starting the graded quiz, please review this list of common syntax errors coders make when writing code.
+
+### **Common syntax errors:**
+
+- Misspellings
+- Incorrect indentations
+- Missing or incorrect key characters:
+    - Parenthetical types - ( curved ), [ square ], { curly }
+    - Quote types - "straight-double" or 'straight-single', “curly-double” or ‘curly-single’
+    - Block introduction characters, like colons - :
+- Data type mismatches
+- Missing, incorrectly used, or misplaced Python reserved words
+- Using the wrong case (uppercase/lowercase) - Python is a case-sensitive language
+
+# 
+
+# Resources
+
+For additional Python practice, the following links will take you to several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+# <<<   YOU HAVE SUCCESSFULLY COMPLETED MODULE 3  >>>
