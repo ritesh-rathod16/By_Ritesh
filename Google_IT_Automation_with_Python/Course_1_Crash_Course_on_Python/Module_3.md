@@ -697,4 +697,4 @@ For additional Python practice, the following links will take you to several pop
 - [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
 - [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
 - [Your Python Trinket](https://trinket.io/python3)
-# <<<   YOU HAVE SUCCESSFULLY COMPLETED MODULE 3  >>>
+#                                                           >>>> YOU HAVE SUCCESSFULLY COMPLETED MODULE 3 <<<<
