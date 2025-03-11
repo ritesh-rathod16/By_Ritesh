@@ -291,3 +291,18 @@ For additional Python practice, the following links will take you to several pop
 - [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
 - [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
 - [Your Python Trinket](https://trinket.io/python3)
+
+# Review: What is a list?
+
+This reading contains the code used in the instructional videos from [**What is a list?**](https://www.coursera.org/learn/python-crash-course/lecture/DoC7j/what-is-a-list)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![image](https://github.com/user-attachments/assets/4bd45ac3-370d-4bfa-8f56-4f426f379a0a)
+![image](https://github.com/user-attachments/assets/b5d2f782-80f3-4b19-a834-df3c025f5177)
+![image](https://github.com/user-attachments/assets/b29ac0c4-6a8d-48e8-ad0d-c5a2b0a57dcd)
+![Uploading image.png…]()
+
