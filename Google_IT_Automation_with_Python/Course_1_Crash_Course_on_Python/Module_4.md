@@ -302,7 +302,12 @@ This follow-along reading is organized to match the content in the video that fo
 
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 ![image](https://github.com/user-attachments/assets/4bd45ac3-370d-4bfa-8f56-4f426f379a0a)
-![image](https://github.com/user-attachments/assets/b5d2f782-80f3-4b19-a834-df3c025f5177)
 ![image](https://github.com/user-attachments/assets/b29ac0c4-6a8d-48e8-ad0d-c5a2b0a57dcd)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/b5d2f782-80f3-4b19-a834-df3c025f5177)
+# Lists Defined
+
+Lists in Python are defined using square brackets, with the elements stored in the list separated by commas: **my_list = ["This", "is", "a", "list"]**. You can use the **len()** function to return the number of elements in a list: **len(my_list)** would return **4**. You can also use the **in** keyword to check if a list contains a certain element. If the element is present, it will return a True boolean. If the element is not found in the list, it will return False. For example, **"This" in my_list** would return True in our example. Similar to strings, lists can also use indexing to access specific elements in a list based on their position. You can access the first element in a list by doing **my_list[0]**, which would allow you to access the string **"This"**.
+
+In Python, lists and strings are quite similar. They’re both examples of sequences of data. Sequences have similar properties, like (1) being able to iterate over them using **for loops**; (2) support indexing; (3) using the **len** function to find the length of the sequence; (4) using the plus operator **+** in order to concatenate; and (5) using the **in** keyword to check if the sequence contains a value. Understanding these concepts allows you to apply them to other sequence types as well.
+
 
