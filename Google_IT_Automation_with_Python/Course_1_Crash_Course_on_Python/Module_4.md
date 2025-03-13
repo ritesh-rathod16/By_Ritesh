@@ -310,4 +310,18 @@ Lists in Python are defined using square brackets, with the elements stored in t
 
 In Python, lists and strings are quite similar. They’re both examples of sequences of data. Sequences have similar properties, like (1) being able to iterate over them using **for loops**; (2) support indexing; (3) using the **len** function to find the length of the sequence; (4) using the plus operator **+** in order to concatenate; and (5) using the **in** keyword to check if the sequence contains a value. Understanding these concepts allows you to apply them to other sequence types as well.
 
+# Review: Modifying the contents of a list
 
+This reading contains the code used in the instructional videos from [**Modifying the contents of a list**](https://www.coursera.org/learn/python-crash-course/supplement/v07vB/modifying-lists)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+
+![image.png](attachment:71ad997e-e6f7-44d8-ba2d-011dc09c9f4d:image.png)
+
+![image.png](attachment:7237bb55-e11d-4660-9384-b394bc555a1a:image.png)
+
+![image.png](attachment:5e50df94-510b-4508-980d-23d1061ee99b:image.png)
