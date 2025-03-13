@@ -320,8 +320,49 @@ This follow-along reading is organized to match the content in the video that fo
 
 You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
 
-![image.png](attachment:71ad997e-e6f7-44d8-ba2d-011dc09c9f4d:image.png)
+![Screenshot 2025-03-13 191313](https://github.com/user-attachments/assets/cfbfdbc1-c339-42b3-8ed4-34a0535e3828)
+![Screenshot 2025-03-13 201919](https://github.com/user-attachments/assets/ec14e5ff-1696-4475-a455-83d416aeecec)
+![Screenshot 2025-03-13 201951](https://github.com/user-attachments/assets/207c7de3-7301-4c34-bf5d-fad7a90dd303)
+# Review: Lists and tuples
 
-![image.png](attachment:7237bb55-e11d-4660-9384-b394bc555a1a:image.png)
+This reading contains the code used in the instructional videos from [**Lists and tuples**](https://www.coursera.org/learn/python-crash-course/lecture/jxAkv/lists-and-tuples)
 
-![image.png](attachment:5e50df94-510b-4508-980d-23d1061ee99b:image.png)
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![image](https://github.com/user-attachments/assets/fe0abed8-1635-4c9c-8b7b-188e0002a366)
+![image](https://github.com/user-attachments/assets/4ac6aa55-53e8-4d81-96f6-9bf84b69829c)
+# Tuples
+
+As we mentioned earlier, strings and lists are both examples of sequences. Strings are sequences of characters, and are immutable. Lists are sequences of elements of any data type, and are mutable. The third sequence type is the tuple. Tuples are like lists, since they can contain elements of any data type. But unlike lists, tuples are immutable. They’re specified using parentheses instead of square brackets.
+
+You might be wondering why tuples are a thing, given how similar they are to lists. Tuples can be useful when we need to ensure that an element is in a certain position and will not change. Since lists are mutable, the order of the elements can be changed on us. Since the order of the elements in a tuple can't be changed, the position of the element in a tuple can have meaning. A good example of this is when a function returns multiple values. In this case, what gets returned is a tuple, with the return values as elements in the tuple. The order of the returned values is important, and a tuple ensures that the order isn’t going to change. Storing the elements of a tuple in separate variables is called unpacking. This allows you to take multiple returned values from a function and store each value in its own variable.
+
+# Review: Iterating over lists and tuples
+
+This reading contains the code used in the instructional videos from [**Iterating over lists and tuples**](https://www.coursera.org/learn/python-crash-course/lecture/M7Dbr/iterating-over-lists-and-tuples)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![image](https://github.com/user-attachments/assets/67cbc50a-45f8-4392-b396-8daa5da52e66)
+
+# Iterating Over Lists Using Enumerate
+
+When we covered *for* loops, we showed the example of iterating over a list. This lets you iterate over each element in the list, exposing the element to the for loop as a variable. But what if you want to access the elements in a list, along with the index of the element in question? You can do this using the **enumerate()** function. The enumerate() function takes a list as a parameter and returns a tuple for each element in the list. The first value of the tuple is the index and the second value is the element itself.
+
+# Review: List comprehensions
+
+This reading contains the code used in the instructional videos from [**List comprehensions**](https://www.coursera.org/learn/python-crash-course/lecture/J9gYw/list-comprehensions)
+
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+
+![image](https://github.com/user-attachments/assets/20af468e-d509-47e3-a764-525b3b0edead)
