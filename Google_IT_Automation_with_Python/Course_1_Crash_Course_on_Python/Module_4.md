@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c280b49c-f8fe-48ce-961c-50b6ef726fe3)# Module 4 >>
+# Module 4 >>
 
 # Review: What is a string?
 
