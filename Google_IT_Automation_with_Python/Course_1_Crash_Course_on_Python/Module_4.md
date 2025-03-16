@@ -1,3 +1,6 @@
+<span style="font-family: Arial, sans-serif; font-size: 14px; color: blue;">
+This text is in Arial, size 14px, and blue.
+</span>
 # Module 4 >>
 
 # Review: What is a string?
