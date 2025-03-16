@@ -529,5 +529,461 @@ For additional information about list and tuple operations and methods, please v
 - [Lists](https://docs.python.org/3/library/stdtypes.html#lists) - Official python.org documentation for list operations and methods.
 - [Tuples](https://docs.python.org/3/library/stdtypes.html#tuples) - Official python.org documentation for tuple operations and methods
 
+# Review: What is a dictionary?
 
+This reading contains the code used in the instructional videos from [**What is a dictionary?**](https://www.coursera.org/learn/python-crash-course/lecture/AsGUr/what-is-a-dictionary)
 
+## **Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![image](https://github.com/user-attachments/assets/794d5d92-4100-4984-b35c-f8ad43cb83b7)
+# Dictionaries Defined
+
+Dictionaries are another data structure in Python. They’re similar to a list in that they can be used to organize data into collections. However, data in a dictionary isn't accessed based on its position. Data in a dictionary is organized into pairs of keys and values. You use the key to access the corresponding value. Where a list index is always a number, a dictionary key can be a different data type, like a string, integer, float, or even tuples.
+
+When creating a dictionary, you use curly brackets: **{}**. When storing values in a dictionary, the key is specified first, followed by the corresponding value, separated by a colon. For example, **animals = { "bears":10, "lions":1, "tigers":2 }** creates a dictionary with three key value pairs, stored in the variable animals. The key "bears" points to the integer value 10, while the key "lions" points to the integer value 1, and "tigers" points to the integer 2. You can access the values by referencing the key, like this: **animals["bears"]**. This would return the integer 10, since that’s the corresponding value for this key.
+
+You can also check if a key is contained in a dictionary using the **in** keyword. Just like other uses of this keyword, it will return True if the key is found in the dictionary; otherwise it will return False.
+
+Dictionaries are mutable, meaning they can be modified by adding, removing, and replacing elements in a dictionary, similar to lists. You can add a new key value pair to a dictionary by assigning a value to the key, like this: **animals["zebras"] = 2**. This creates the new key in the animal dictionary called zebras, and stores the value 2. You can modify the value of an existing key by doing the same thing. So **animals["bears"] = 11** would change the value stored in the bears key from 10 to 11. Lastly, you can remove elements from a dictionary by using the **del** keyword. By doing **del animals["lions"]** you would remove the key value pair from the animals dictionary.
+# Review: Iterating over the contents of a dictionary
+
+This reading contains the code used in the instructional videos from [**Iterating over the contents of a dictionary.**](https://www.coursera.org/learn/python-crash-course/lecture/PBuyf/iterating-over-the-contents-of-a-dictionary)
+
+**Introduction**
+
+This follow-along reading is organized to match the content in the video that follows. It contains the same code shown in the next video. These code blocks will provide you with the opportunity to see how the code is written, allow you to practice running it, and can be used as a reference to refer back to.
+
+You can follow along in the reading as the instructor discusses the code or review the code after watching the video.
+![image](https://github.com/user-attachments/assets/13b073a2-81be-43d8-a45e-045e3a406e4c)
+![image](https://github.com/user-attachments/assets/91ed7843-fc7f-4ea5-9ac3-adf58eb8322f)
+# Use while loops and if else statements for dictionaries
+
+You’ve learned that **if** statements are used as a form of decision making. **If** statements tell your computer to perform a conditional execution based on the value of an expression. Using else in conjunction with an if statement allows your computer to evaluate for multiple conditions and run a statement if other conditions are **false**. In other words, **else** is the condition that runs if all other statements are not **true**.
+
+You’ve also learned that **while** loops instruct your computer to continuously execute your code based on the value of a condition, but it will only continue to execute as long as the evaluation statement is **True**. Once that statement is no longer **True**, the loop exits and the next line of code will be executed.
+
+In this reading, you will learn about using **while** loops and **if else** statements for dictionaries, and see examples demonstrating the benefits of using them in your Python code.
+
+## **while** **loops**
+
+Dictionaries are used to organize elements into collections using pairs of keys and values. But what do you do when you need to search a collection of data for a value? That’s where **while** loops come in. A **while** loop will iterate through conditions until one comes up **False**, unlike a **for** loop, which will iterate through the entire dictionary, one row at a time. Consider the following example:
+
+**for item in someDictionary:**
+
+**<code goes here>**
+
+versus:
+
+**while someDictionary:**
+
+**<code goes here>**
+
+Notice the difference between the **for** loop and the **while** loop—unlike the **for** loop, the **while** loop does not require calling a variable to act as a counter, or the “item” variable in the **for** loop. **for** loops anticipate a specific structure—like a list—and when called, will iterate through the entire list, until it gets to the end.  **while** loops can be used more universally when the structure of your data set is more ambiguous.
+
+## **if else** **statements**
+
+**if else** statements are useful if you want to find and check for specific values and perform specific actions based on the result. Consider the following example:
+![image](https://github.com/user-attachments/assets/9470fb37-eddd-4628-b1e7-b8e78848656e)
+The goal here is to search if the key “banana” exists in the dictionary. The first line determines the key, “banana,” which is what we want to search for in the dictionary. The second line uses an if statement to search for the key within the dictionary and prints the value of that particular key **if** the condition is **True**. The **else** statement will return that the key was not found in the dictionary if the condition is **False**. As an example, this code block will return “The value of banana is 3” or “banana is not found in the dictionary” when it is run.
+
+## **Key takeaways**
+
+**while** loops and **if else** statements are methods you can use to search for values within a dictionary. If you want to search through an entire dictionary quickly to find a value, use a **while** loop. If you want to search through a dictionary to find and check a value, use an **if else** statement to return the value and perform specific actions based on the result.
+Study Guide: Dictionary Methods
+This study guide provides a quick-reference summary of what you learned in this lesson and serves as a guide for the upcoming practice quiz. 
+
+In the Dictionary segment, you learned about the properties of the Python dictionary data type, how dictionaries differ from lists, how to iterate over the contents of a dictionary, and how to use dictionaries with lists and strings.
+
+Knowledge
+Python dictionaries are used to organize elements into collections. Dictionaries include one or more keys, with one or more values associated with each key. 
+
+Syntax
+![image](https://github.com/user-attachments/assets/8587462e-f43e-431e-ab96-b883b68c2b71)
+## Operations
+
+- **len(dictionary)** - Returns the number of items in a dictionary.
+- **for key in dictionary** Iterates over each key in a dictionary.
+- **for key, value in dictionary.items()** Iterates over each key,value pair in a dictionary.
+- **if key in dictionary** - Checks whether a key is in a dictionary.
+- **dictionary[key]** - Accesses a value using the associated key from a dictionary.
+- **dictionary[key] = value** Sets a value associated with a key.
+- **del dictionary[key]** Removes a value using the associated key from a dictionary.
+
+## Methods
+
+- **dictionary.get(key, default)** Returns the value corresponding to a key, or the default value if the specified key is not present.
+- **dictionary.keys()** Returns a sequence containing the keys in a dictionary.
+- **dictionary.values()** Returns a sequence containing the values in a dictionary.
+- **dictionary[key].append(value)** - Appends a new value for an existing key.
+- **dictionary.update(other_dictionary)** - Updates a dictionary with the items from another dictionary. Existing entries are updated; new entries are added.
+- **dictionary.clear()** Deletes all items from a dictionary.
+- **dictionary.copy()** Makes a copy of a dictionary.
+
+# Dictionaries versus Lists
+
+Dictionaries are similar to lists, but there are a few differences:
+
+## Both dictionaries and lists:
+
+- are used to organize elements into collections;
+- are used to initialize a new dictionary or list, use empty brackets;
+- can iterate through the items or elements in the collection; and
+- can use a variety of methods and operations to create and change the collections, like removing and inserting items or elements.
+
+## Dictionaries only:
+
+- are unordered sets;
+- have keys that can be a variety of data types, including strings, integers, floats, tuples;.
+- can access dictionary values by keys;
+- use square brackets inside curly brackets { };
+- use colons between the key and the value(s);
+- use commas to separate each key group and each value within a key group;
+- make it quicker and easier for a Python interpreter to find specific elements, as compared to a list.
+
+### Dictionary Example:
+![image](https://github.com/user-attachments/assets/5aa1c376-dbec-43dc-b11f-42b1c1d86bf6)
+## Lists only:
+
+- are ordered sets;
+- access list elements by index positions;
+- require that these indices be integers;
+- use square brackets [ ];
+- use commas to separate each list element.
+
+### **List Example:**
+![image](https://github.com/user-attachments/assets/229bd081-0616-4df5-b881-974451fc16ec)
+# Coding skills
+
+### **Skill Group 1**
+
+- Iterate over the key and value pairs of a dictionary using a **for** loop with the **dictionary.items()** method to calculate the sum of the values in a dictionary.
+![image](https://github.com/user-attachments/assets/87b53448-c98a-470f-b505-b91cee7a6c8c)
+### **Skill Group 2**
+
+- Concatenate a value, a string, and the key for each item in the dictionary and append to the end of a new listusing the **list.append(x)** method.
+- Iterate over keys with multiple values from a dictionary using nested **for** loops with the **dictionary.items()** method.
+![image](https://github.com/user-attachments/assets/b51d9346-dd19-45e4-955e-6eaf61d0395b)
+**Skill Group 3**
+
+- Use the **dictionary[key] = value** operation to associate a value with a key in a dictionary.
+- Iterate over keys with multiple values from a dictionary, using nested **for** loops and an **if**statement, and the **dictionary.items()** method.
+- Use the **dictionary[key].append(value)** method to add the key, a string, and the key for each item in the dictionary.
+![image](https://github.com/user-attachments/assets/37df016a-7f34-4e9c-a43e-5cbe7492bafe)
+# Resources
+
+For additional information about dictionaries, please visit:
+
+- [Mapping Types — dict](https://docs.python.org/3/library/stdtypes.html#mapping-types-dict) Official python.org documentation for dictionary methods
+- [Python Dictionaries](https://www.w3schools.com/python/python_dictionaries.asp) - Tutorial with interactive code blocks for practicing using dictionary methods and operations
+# What Is a Method?
+
+In Python, methods are behaviors associated with object parameters that modify the state of that object. They are essentially functions that belong to a specific instance of a class. This means that calling a method on a list, for example, only modifies that instance of the list, and not all lists globally.
+
+Methods in Python fall into several categories:
+
+- Instance methods
+- Class methods
+- Static methods
+
+## **Instance methods**
+
+**Instance methods** are the most common type of methods in Python. You define instance methods within a class by creating functions inside the class definition. When you instantiate instances of a class, those individual instances can have their methods called so the program can control and modify those instances directly. Instance methods can take a parameter called **self**, which represents the instance the method is being executed on, that allows you to access attributes of the instance using dot notation, like **self.name**, which will access the name attribute of that specific instance of the class object. When you have variables that contain different values for different instances, these are called instance variables.
+
+## **Class methods**
+
+**Class methods**, on the other hand, are called for the class itself instead of an instance. They are marked with a **@classmethod** decorator and take a **cls** parameter that points to the class—and not any specific instance—when the method is called. One common use-case for class methods is to create and modify data structures that contain records for all instances of a class. Usually, programmers make a list inside the class definition, and methods to add instances of the class to that list in order to keep track of that class.
+
+## **Static methods**
+
+Lastly, static methods, marked with a **@staticmethod** decorator, do not take a self or a **cls** parameter. Static methods behave like plain functions, except that you can call them directly from the class. It is important to note that you do not have to actually instantiate the class, the methods just reside in there. This is because class definitions are themselves an object (i.e., an instance of abstract base class), which reduces overhead and allows functions to be encapsulated in an easy-to-use encapsulation. Programmers use static methods when the method does not need to access any instance or class-specific data.
+
+## **Choosing a method type**
+
+The type of method you choose to use—instance, class, or static—depends on what data the method needs to access. Think of these methods as different tools in your toolbox, each with a different use-case depending on the data you need to work with.
+
+- Instance methods are for individual object data
+- Class methods for shared data,Static methods for related tasks that don't need to access or modify any object or class data
+
+## **Key takeaways**
+
+Remember, methods in Python are a way to bundle behavior with objects, allowing you to interact with and modify the state of those objects. However, static methods offer a way to bundle functions together, to be used in general on any other type of object. Bundling functions together helps organize functions in a clean manner and helps package them for reuse in other coding projects.
+# Constructors and Other Special Methods (Optional)
+
+As you have been learning, you can use a class in Python to bundle data and functionality together. When you create a new class, you create a new type of object.
+
+## Creating an instance of a class
+
+Each time you create an instance of a class, Python calls a special class method the constructor. The constructor’s job is to set up the object, meaning that instance of the class, so it’s ready to be used. Usually this means initializing some variables and doing other simple housekeeping.
+
+When writing a Python class, you define a method called **__init__** to be your constructor. The special name tells Python to use that method as the constructor. Just like any other method, the constructor can take arguments. When making an argument to the class, the first constructor must always be **self**.
+
+Here’s a simple example of a constructor that initializes an object’s variables.
+![image](https://github.com/user-attachments/assets/019d2f30-c0a4-441f-9549-7194a379fd00)
+## Modify variables
+
+If we wanted to make our Apple class more flexible, we could allow the user to specify the color and flavor as arguments when creating the object. We can modify our constructor to take those arguments and use them:
+![image](https://github.com/user-attachments/assets/94e465e5-af8a-4449-a439-565db8a70264)
+## Other special methods
+
+As you might expect, Python classes have many other special methods. Most of these have default implementations provided by the Python standard library, but you are free to override the behavior of any of them. Like the **__init__** constructor, special methods begin and end with a double underscore, and this is called **dunder method**. The word “dunder” combines the “d” in double and the “under” in **unders**core.
+
+For example, the **__str__** special method controls how your object is converted to a string representation for output. When you **print()** something, Python calls the object’s **__str__()** method and outputs whatever that method returns. In most cases, the default output is just the class name and a memory location:
+
+**>>> print(honeycrisp)
+<__main__.Apple object at 0x7ffa68d78970>**
+
+Let’s override the **__str__** method to be more useful for apples:
+![image](https://github.com/user-attachments/assets/009672e3-8151-448c-9254-c33a2b9f684d)
+Here are some of the other special methods you can override in your own classes:
+
+- **__len__** returns the length of the object or collection.
+- **__contains__** tests whether the object contains an item.
+- **__eq__** tests whether two objects are equal.
+
+## Key takeaways
+
+A constructor (such as **__init__**) is a special class method that sets up the object in Python. When making an argument to a class, the first constructor must always be **self**. Python classes have many special methods available in the standard library. These methods can be overridden using the method called **dunder method**.
+# Special Methods
+Instead of creating classes with empty or default values, we can set these values when we create the instance. This ensures that we don't miss an important value and avoids a lot of unnecessary lines of code. To do this, we use a special method called a constructor. Below is an example of an Apple class with a constructor method defined.
+![image](https://github.com/user-attachments/assets/dc403430-0925-4fd4-afbe-da4072ae9cbf)
+When you call the name of a class, the constructor of that class is called. This constructor method is always named __init__. You might remember that special methods start and end with two underscore characters. In our example above, the constructor method takes the self variable, which represents the instance, as well as color and flavor parameters. These parameters are then used by the constructor method to set the values for the current instance. So we can now create a new instance of the Apple class and set the color and flavor values all in go:
+![image](https://github.com/user-attachments/assets/f21849ab-0a01-47aa-a42b-0d8e440d9d72)
+In addition to the __init__ constructor special method, there is also the __str__ special method. This method allows us to define how an instance of an object will be printed when it’s passed to the print() function. If an object doesn’t have this special method defined, it will wind up using the default representation, which will print the position of the object in memory. Not super useful. Here is our Apple class, with the __str__ method added:
+![image](https://github.com/user-attachments/assets/0f8be863-ff65-475b-9c53-01010eaded2a)
+Now, when we pass an Apple object to the print function, we get a nice formatted string:
+![image](https://github.com/user-attachments/assets/87587340-799f-4fb3-a1f4-f39997d117d2)
+This apple is red and its flavor is sweet
+
+It's good practice to think about how your class might be used and to define a __str__ method when creating objects that you may want to print later.
+
+# Methods as special operators
+
+You have already learned about methods and how they are just functions that belong to a class. They define the behavior that an object of the class can perform. Special operators are specific symbols or keywords that are built-in and provide special behavior when used with certain data types or objects. In your class, you can define methods to implement or override the standard behavior of Python operators, thus creating methods as special operators.
+
+In this reading you will learn about the different types of special operators, how to override the standard operators and embed them in your code, and see examples along the way.
+
+## **Different types of special operators**
+
+Python supports a variety of different operators that you can use in your code to make life easier for you. Some of the more common operators are:
+
+- Arithmetic operators. These include **+** (addition),  (subtraction),  (multiplication), **/** (division), and ***** (exponentiation).
+- Comparison operators. These include **==** (equality), **!=** (inequality), **<** (less than), and **>=** (greater than or equal to)
+- Logical operators. These include **and**, **or**, and **not**.
+- Assignment operators. These include **=** (simple assignment), **+=** (addition assignment), and **%=** (modulo assignment)
+
+**Note:** This is not an all-inclusive list, but different examples of common operators that you would use in Python.
+
+## **Performing special operations**
+
+Every special operator has a corresponding **dunder method** that implements the operation. In Python, you denote a dunder method by placing double underscores at the beginning and end of the name; in fact, the term “dunder” comes from this use of **d**ouble **unders**cores. You can change how an operator behaves with an instance of your object by overriding the implementation. Let’s look at an example:
+
+**class Triangle:**
+
+**def __init__(self, base, height):**
+
+**self.base = base**
+
+**self.height = height**
+
+In this example, the **Triangle** class has a method **__init__()**which is called a constructor and is used to initialize the object’s attributes.
+
+**def area(self):**
+
+**return 0.5 * self.base * self.height**
+
+This part of the code, area(self) method, computes the area of the triangle based on its height and base length.
+
+**def __add__(self, other):**
+
+**return self.area() + other.area()**
+
+This method overrides the + operator to "add" two triangles together.
+
+**triangle1 = Triangle(10, 5)**
+
+**triangle2 = Triangle(6, 8)**
+
+**print("The area of triangle 1 is", triangle1.area())**
+
+**print("The area of triangle 2 is", triangle2.area())**
+
+**print("The area of both triangles is", triangle1.area() + triangle2.area())**
+
+The output of this problem is:
+
+**The area of triangle 1 is 25.0**
+
+**The area of triangle 2 is 24.0**
+
+**The area of both triangles is 49.0**
+
+Putting it all together, this is what the code should look like:
+
+![image](https://github.com/user-attachments/assets/86f325cb-3629-48c1-90a3-f6c453ac412b)
+For a full list of operators and the method names you can use to override their behavior, view this resource:
+
+- [Mapping operators to functions](https://docs.python.org/3/library/operator.html#mapping-operators-to-functions)
+
+## **Key takeaways**
+
+Python allows you to override or implement standard operations in your code to make your code cleaner for yourself and others to read. Being able to override certain behaviors allows you to control the output of your code and provides flexibility in how you write code.
+# Study guide: Classes and methods (optional)
+
+In the past few videos, we’ve seen how to define **classes** and **methods** in Python. Here, you’ll find a run-down of everything we’ve covered, so you can refer to it whenever you need a refresher.
+
+## **Defining classes and methods**
+![image](https://github.com/user-attachments/assets/b6e1b0b4-6af4-420b-9e7a-ed7dff903aef)
+## **Classes and instances**
+
+- Classes define the behavior of all instances of a specific class. In Python, the code defining a class is, itself, an object; classes can be used without instantiating a single object, such as when using static methods
+- Remember, each variable of a specific class is an instance or object.
+- In Python, "getters and setters" are methods used for controlling access to an object's attributes. The getter method retrieves the value of an attribute, while the setter method sets or changes the attribute's value, often including some sort of validation or modification to the data before setting the value.
+- You can access an instance's attribute, like **name**, by calling self.name within the class methods, or **<instance>.name** outside the class, where **<instance>** is the specific instance of the class you're working with.Objects can have attributes, which store information about the object.
+- You can make objects do work by calling their methods.
+- The first parameter of the methods, **(self)**, represents the current instance.
+- Methods are just like functions, but they can only be used through a class.
+- You can use class methods in conjunction with a class variable to track the number of instances of a class, incrementing the class variable each time an instance is created in the class's **__init__** method.
+
+## **Special methods**
+
+- Special methods start and end with **__**.
+- Special methods have specific names, like **__init__** for the constructor or **__str__** for the conversion to string.
+- The methods **__str__** and **__repr__** allow you to define human-readable and unambiguous string representations of your objects, respectively.
+- By defining methods like **__eq__**, **__ne__**, **__lt__**, **__gt__**, **__le__**, and **__ge__**, you can control how **objects** of your **class** are compared.
+
+## **Documenting classes, methods, and functions**
+
+- You can add documentation to **classes**, **methods**, and **functions** by using **docstrings** right after the definition. Like this:
+![image](https://github.com/user-attachments/assets/28cf1449-a49d-4328-aa10-2f9469080542)
+A great way to use docstrings is to have an example of using the function, with its expected output.
+![image](https://github.com/user-attachments/assets/8fd64feb-99c7-4e35-a34e-96bd986365e4)
+When in an interactive Python section, you can display docstrings with:
+![image](https://github.com/user-attachments/assets/1aab0f9a-2a8b-487e-b384-f99a7c9913d4)
+Or in your code code you can retrieve it and use it in your program just as you would with any other string:
+![image](https://github.com/user-attachments/assets/549fd59b-4de6-4cd9-95f7-b8ba84add09a)
+Reference: Data model
+# Glossary terms from course 1, module 4
+
+## **Terms and definitions from Course 1, Module 4**
+
+**Dictionaries:** A data type used to organize elements into collections, taking the form of pairs of keys and values
+
+**List comprehensions:** Create new lists based on sequences or ranges
+
+**String:** A data type used to represent a piece of text. sequences of characters and are immutable
+
+**Tuples:** Sequences of elements of any type that are immutable, written parentheses instead of square brackets
+# Study Guide: Module 4 Graded Quiz
+
+It is time to prepare for the Module 4 Graded Quiz. Please review the following items from this module before beginning the quiz. If you would like to refresh your memory on these materials, please also revisit the Study Guides located before each practice quiz in Module 4: [Study Guide: Strings](https://www.coursera.org/learn/python-crash-course/supplement/ydyIo/study-guide-strings),  [Study Guide: Lists Operations and Methods](https://www.coursera.org/learn/python-crash-course/supplement/sbRdF/study-guide-lists-operations-and-methods), and [Study Guide: Dictionary Methods](https://www.coursera.org/learn/python-crash-course/supplement/Cc19J/study-guide-dictionary-methods).
+
+# Knowledge
+
+- How to output a list of the keys in a Python dictionary.
+- How to determine the output of a string index range used on a string.
+- Determine what a list should contain after the .insert() method is used on the list.
+- How to replace a specific word in a sentence with the same word in all uppercase letters.
+- How to use a dictionary to count the frequency of letters in a string.
+
+## 
+
+## Operations, Methods, and Functions
+
+- **String Methods, Operations, and Functions**
+    - .upper()
+    - .lower()
+    - .split()
+    - .format()
+    - .isnumeric()
+    - .isalpha()
+    - .replace()
+    - string index [ ]
+    - len()
+- **List Operations and Methods**
+    - .reverse()
+    - .extend()
+    - .insert()
+    - .append()
+    - .remove()
+    - .sort()
+    - list comprehensions [ ]
+    - list comprehensions with if condition
+- **Dictionary Operations and Methods**
+    - .items()
+    - .update()
+    - .keys()
+    - .values()
+    - .copy()
+    - dictionary[key]
+    - dictionary[key] = value
+
+# Coding Skills
+
+## **Skill 1:** Using **string** methods
+
+- Separate numerical values from text values in a string using **.split()**.
+- Iterate over the elements in a string.
+- Test if the element contains letters with **.isalpha()**.
+- Assign the elements of the split string to new variables.
+- Trim any extra white space using **.strip()**.
+- Format a string using **.format()** and **{ }** variable placeholders
+ ![image](https://github.com/user-attachments/assets/987504d6-1f21-4e25-909c-8b135fcf184d)
+- Use the len() function to measure a string.
+![image](https://github.com/user-attachments/assets/af157665-8eeb-4348-b847-757f2336eb98)
+## **Skill 2:** Using **list** methods
+
+- Reverse the order of a list using the **.reverse()** method.
+- Combine two lists using the **.extend()** method.
+![image](https://github.com/user-attachments/assets/d0ccc514-b555-4076-8501-6ae7611331c1)
+## **Skill 3:** Using a **list comprehension**
+
+- Use a list comprehension as a shortcut for creating a new list from a range.
+- Include a calculation with a **for** loop **in** a **range** with 2 parameters (lower, upper+1).
+![image](https://github.com/user-attachments/assets/46255a11-7595-49cc-a80c-d0abaea89de2)
+- Use a list comprehension [ ] with a for loop and an if condition.
+![image](https://github.com/user-attachments/assets/7ee5ddf9-46cc-4149-900d-b90716c7e812)
+## **Skill 4:** Using **dictionary** methods
+
+- Iterate through the keys and values of a dictionary.
+- Return the keys and values in a formatted string using the .format() function.
+![image](https://github.com/user-attachments/assets/9ee80aab-6912-435a-a127-210fa8976e3d)
+- Create a copy of a dictionary.
+- Iterate through the values of the new dictionary.
+- Change each value in the new dictionary, while keeping the same keys.
+![image](https://github.com/user-attachments/assets/150a198e-9bd6-4308-9b3a-68ebbdad5f4d)
+# Reminder: Correct syntax is critical
+
+Using precise syntax is critical when writing code in any programming language, including Python. Even a small typo can cause a syntax error and the automated Python-coded quiz grader will mark your code as incorrect. This reflects real life coding errors in the sense that a single error in spelling, case, punctuation, etc. can cause your code to fail. Coding problems caused by imprecise syntax will always be an issue whether you are learning a programming language or you are using programming skills on the job. So, it is critical to start the habit of being precise in your code now.
+
+No credit will be given if there are any coding errors on the automated graded quizzes - including minor errors. Fortunately, you have 3 optional retake opportunities on the graded quizzes in this course. Additionally, you have unlimited retakes on practice quizzes and can review the videos and readings as many times as you need to master the concepts in this course.
+
+Now, before starting the graded quiz, please review this list of common syntax errors coders make when writing code.
+
+**Common syntax errors:**
+
+- Misspellings
+- Incorrect indentations
+- Missing or incorrect key characters:
+    - Parenthetical types - ( curved ), [ square ], { curly }
+    - Quote types - "straight-double" or 'straight-single', “curly-double” or ‘curly-single’
+    - Block introduction characters, like colons - :
+- Data type mismatches
+- Missing, incorrectly used, or misplaced Python reserved words
+- Using the wrong case (uppercase/lowercase) - Python is a case-sensitive language
+
+## 
+
+# Resources
+
+For additional Python practice, the following links will take you to several popular online interpreters and codepads:
+
+- [Welcome to Python](https://www.python.org/shell/)
+- [Online Python Interpreter](https://www.onlinegdb.com/online_python_interpreter)
+- [Create a new Repl](https://repl.it/languages/python3)
+- [Online Python-3 Compiler (Interpreter)](https://www.tutorialspoint.com/execute_python3_online.php)
+- [Compile Python 3 Online](https://rextester.com/l/python3_online_compiler)
+- [Your Python Trinket](https://trinket.io/python3)
+ 
