@@ -592,7 +592,9 @@ The goal here is to search if the key “banana” exists in the dictionary. The
 ## **Key takeaways**
 
 **while** loops and **if else** statements are methods you can use to search for values within a dictionary. If you want to search through an entire dictionary quickly to find a value, use a **while** loop. If you want to search through a dictionary to find and check a value, use an **if else** statement to return the value and perform specific actions based on the result.
-Study Guide: Dictionary Methods
+![image](https://github.com/user-attachments/assets/a65cc594-1a27-49a5-b41c-caf9c08c4378)
+
+# Study Guide: Dictionary Methods
 This study guide provides a quick-reference summary of what you learned in this lesson and serves as a guide for the upcoming practice quiz. 
 
 In the Dictionary segment, you learned about the properties of the Python dictionary data type, how dictionaries differ from lists, how to iterate over the contents of a dictionary, and how to use dictionaries with lists and strings.
