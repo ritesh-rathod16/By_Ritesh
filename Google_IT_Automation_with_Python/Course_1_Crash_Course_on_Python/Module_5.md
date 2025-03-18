@@ -374,3 +374,4 @@ Planning for a promotion doesn't necessarily mean that you are going to get one.
 - Continue your education.
 - Maintain strong work ethics.
 - Communicate with your boss, your coworkers, and your customers.
+#                                                           >>>> YOU HAVE SUCCESSFULLY COMPLETED MODULE 5 <<<<
