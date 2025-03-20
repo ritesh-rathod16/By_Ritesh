@@ -573,13 +573,12 @@ Dictionaries are used to organize elements into collections using pairs of keys 
 
 **for item in someDictionary:**
 
-**<code goes here>**
 
 versus:
 
 **while someDictionary:**
 
-**<code goes here>**
+
 
 Notice the difference between the **for** loop and the **while** loop—unlike the **for** loop, the **while** loop does not require calling a variable to act as a counter, or the “item” variable in the **for** loop. **for** loops anticipate a specific structure—like a list—and when called, will iterate through the entire list, until it gets to the end.  **while** loops can be used more universally when the structure of your data set is more ambiguous.
 
